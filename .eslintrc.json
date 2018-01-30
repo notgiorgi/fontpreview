@@ -1,3 +1,13 @@
 {
-    "extends": "standard"
+    "extends": "standard",
+    "globals": {
+        "$": false,
+        "WebFont": false
+    },
+    "env": {
+        "browser": true
+    },
+    "rules": {
+        "space-before-function-paren": "error"
+    }
 }
