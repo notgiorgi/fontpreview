@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+  <style>
+
+    canvas, img {
+      border: 1px solid black;
+    }
+
+    #images {
+      display: flex;
+      flex-wrap: wrap;
+    }
+
+    #measurer {
+      display: none;
+      padding: 0;
+      margin: 0;
+      border: none;
+    }
+
+    .preview {
+      width: 76px;
+      height: 16px;
+
+      border:1px solid red;
+      margin-bottom: 1em;
+
+      background-image: url(./font_sheet.png);
+      background-repeat: no-repeat;
+    }
+
+    body {
+      margin: 0 auto;
+      width: 90%;
+    }
+  </style>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js"></script>
+
+</head>
+<body>
+  <p>Please wait for the images</p>
+  <span id="measurer"></span>
+  <div id="images"></div>
+
+  <!--  -->
+  <div id="previews"></div>
+  <!--  -->
+  <!-- <script src="./index.js"></script> -->
+  <!-- <script type="text/javascript">
+    $.getJSON('./font_sheet.json')
+      .done(config => {
+        config.FONTS.slice(100, 300).forEach(f => {
+          render(createPreview(config, f))
+        })
+      })
+
+    function createPreview(config, fontName) {
+      return $('<div/>')
+        .addClass('preview')
+        .css({
+          'background-size': config.CANVAS_MAX_W / config.PIXEL_RATIO,
+          'background-position': `-${fontX(config, fontName)}px -${fontY(config, fontName)}px`
+        })
+    }
+
+
+    function render($node) {
+      $('#previews').append($node)
+    }
+
+    function font(config, name) {
+      return config[name]
+    }
+
+    function fontX(config, name) {
+      return font(config, name).x
+    }
+
+    function fontY(config, name) {
+      return font(config, name).y
+    }
+  </script> -->
+</body>
+</html>

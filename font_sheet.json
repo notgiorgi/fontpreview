@@ -1,0 +1,3397 @@
+{
+	"FONTS": ["ABeeZee", "Abel", "Abhaya Libre", "Abril Fatface", "Aclonica", "Acme", "Actor", "Adamina", "Advent Pro", "Aguafina Script", "Akronim", "Aladin", "Aldrich", "Alef", "Alegreya", "Alegreya SC", "Alegreya Sans", "Alegreya Sans SC", "Alex Brush", "Alfa Slab One", "Alice", "Alike", "Alike Angular", "Allan", "Allerta", "Allerta Stencil", "Allura", "Almendra", "Almendra Display", "Almendra SC", "Amarante", "Amaranth", "Amatic SC", "Amethysta", "Amiko", "Amiri", "Amita", "Anaheim", "Andada", "Andika", "Angkor", "Annie Use Your Telescope", "Anonymous Pro", "Antic", "Antic Didone", "Antic Slab", "Anton", "Arapey", "Arbutus", "Arbutus Slab", "Architects Daughter", "Archivo", "Archivo Black", "Archivo Narrow", "Aref Ruqaa", "Arima Madurai", "Arimo", "Arizonia", "Armata", "Arsenal", "Artifika", "Arvo", "Arya", "Asap", "Asap Condensed", "Asar", "Asset", "Assistant", "Astloch", "Asul", "Athiti", "Atma", "Atomic Age", "Aubrey", "Audiowide", "Autour One", "Average", "Average Sans", "Averia Gruesa Libre", "Averia Libre", "Averia Sans Libre", "Averia Serif Libre", "Bad Script", "Bahiana", "Baloo", "Baloo Bhai", "Baloo Bhaijaan", "Baloo Bhaina", "Baloo Chettan", "Baloo Da", "Baloo Paaji", "Baloo Tamma", "Baloo Tammudu", "Baloo Thambi", "Balthazar", "Bangers", "Barlow", "Barlow Condensed", "Barlow Semi Condensed", "Barrio", "Basic", "Battambang", "Baumans", "Bayon", "Belgrano", "Bellefair", "Belleza", "BenchNine", "Bentham", "Berkshire Swash", "Bevan", "Bigelow Rules", "Bigshot One", "Bilbo", "Bilbo Swash Caps", "BioRhyme", "BioRhyme Expanded", "Biryani", "Bitter", "Black Ops One", "Bokor", "Bonbon", "Boogaloo", "Bowlby One", "Bowlby One SC", "Brawler", "Bree Serif", "Bubblegum Sans", "Bubbler One", "Buda", "Buenard", "Bungee", "Bungee Hairline", "Bungee Inline", "Bungee Outline", "Bungee Shade", "Butcherman", "Butterfly Kids", "Cabin", "Cabin Condensed", "Cabin Sketch", "Caesar Dressing", "Cagliostro", "Cairo", "Calligraffitti", "Cambay", "Cambo", "Candal", "Cantarell", "Cantata One", "Cantora One", "Capriola", "Cardo", "Carme", "Carrois Gothic", "Carrois Gothic SC", "Carter One", "Catamaran", "Caudex", "Caveat", "Caveat Brush", "Cedarville Cursive", "Ceviche One", "Changa", "Changa One", "Chango", "Chathura", "Chau Philomene One", "Chela One", "Chelsea Market", "Chenla", "Cherry Cream Soda", "Cherry Swash", "Chewy", "Chicle", "Chivo", "Chonburi", "Cinzel", "Cinzel Decorative", "Clicker Script", "Coda", "Coda Caption", "Codystar", "Coiny", "Combo", "Comfortaa", "Coming Soon", "Concert One", "Condiment", "Content", "Contrail One", "Convergence", "Cookie", "Copse", "Corben", "Cormorant", "Cormorant Garamond", "Cormorant Infant", "Cormorant SC", "Cormorant Unicase", "Cormorant Upright", "Courgette", "Cousine", "Coustard", "Covered By Your Grace", "Crafty Girls", "Creepster", "Crete Round", "Crimson Text", "Croissant One", "Crushed", "Cuprum", "Cutive", "Cutive Mono", "Damion", "Dancing Script", "Dangrek", "David Libre", "Dawning of a New Day", "Days One", "Dekko", "Delius", "Delius Swash Caps", "Delius Unicase", "Della Respira", "Denk One", "Devonshire", "Dhurjati", "Didact Gothic", "Diplomata", "Diplomata SC", "Domine", "Donegal One", "Doppio One", "Dorsa", "Dosis", "Dr Sugiyama", "Duru Sans", "Dynalight", "EB Garamond", "Eagle Lake", "Eater", "Economica", "Eczar", "El Messiri", "Electrolize", "Elsie", "Elsie Swash Caps", "Emblema One", "Emilys Candy", "Encode Sans", "Encode Sans Condensed", "Encode Sans Expanded", "Encode Sans Semi Condensed", "Encode Sans Semi Expanded", "Engagement", "Englebert", "Enriqueta", "Erica One", "Esteban", "Euphoria Script", "Ewert", "Exo", "Exo 2", "Expletus Sans", "Fanwood Text", "Farsan", "Fascinate", "Fascinate Inline", "Faster One", "Fasthand", "Fauna One", "Faustina", "Federant", "Federo", "Felipa", "Fenix", "Finger Paint", "Fira Mono", "Fira Sans", "Fira Sans Condensed", "Fira Sans Extra Condensed", "Fjalla One", "Fjord One", "Flamenco", "Flavors", "Fondamento", "Fontdiner Swanky", "Forum", "Francois One", "Frank Ruhl Libre", "Freckle Face", "Fredericka the Great", "Fredoka One", "Freehand", "Fresca", "Frijole", "Fruktur", "Fugaz One", "GFS Didot", "GFS Neohellenic", "Gabriela", "Gafata", "Galada", "Galdeano", "Galindo", "Gentium Basic", "Gentium Book Basic", "Geo", "Geostar", "Geostar Fill", "Germania One", "Gidugu", "Gilda Display", "Give You Glory", "Glass Antiqua", "Glegoo", "Gloria Hallelujah", "Goblin One", "Gochi Hand", "Gorditas", "Goudy Bookletter 1911", "Graduate", "Grand Hotel", "Gravitas One", "Great Vibes", "Griffy", "Gruppo", "Gudea", "Gurajada", "Habibi", "Halant", "Hammersmith One", "Hanalei", "Hanalei Fill", "Handlee", "Hanuman", "Happy Monkey", "Harmattan", "Headland One", "Heebo", "Henny Penny", "Herr Von Muellerhoff", "Hind", "Hind Guntur", "Hind Madurai", "Hind Siliguri", "Hind Vadodara", "Holtwood One SC", "Homemade Apple", "Homenaje", "IM Fell DW Pica", "IM Fell DW Pica SC", "IM Fell Double Pica", "IM Fell Double Pica SC", "IM Fell English", "IM Fell English SC", "IM Fell French Canon", "IM Fell French Canon SC", "IM Fell Great Primer", "IM Fell Great Primer SC", "Iceberg", "Iceland", "Imprima", "Inconsolata", "Inder", "Indie Flower", "Inika", "Inknut Antiqua", "Irish Grover", "Istok Web", "Italiana", "Italianno", "Itim", "Jacques Francois", "Jacques Francois Shadow", "Jaldi", "Jim Nightshade", "Jockey One", "Jolly Lodger", "Jomhuria", "Josefin Sans", "Josefin Slab", "Joti One", "Judson", "Julee", "Julius Sans One", "Junge", "Jura", "Just Another Hand", "Just Me Again Down Here", "Kadwa", "Kalam", "Kameron", "Kanit", "Kantumruy", "Karla", "Karma", "Katibeh", "Kaushan Script", "Kavivanar", "Kavoon", "Kdam Thmor", "Keania One", "Kelly Slab", "Kenia", "Khand", "Khmer", "Khula", "Kite One", "Knewave", "Kotta One", "Koulen", "Kranky", "Kreon", "Kristi", "Krona One", "Kumar One", "Kumar One Outline", "Kurale", "La Belle Aurore", "Laila", "Lakki Reddy", "Lalezar", "Lancelot", "Lateef", "Lato", "League Script", "Leckerli One", "Ledger", "Lekton", "Lemon", "Lemonada", "Libre Barcode 128", "Libre Barcode 128 Text", "Libre Barcode 39", "Libre Barcode 39 Extended", "Libre Barcode 39 Extended Text", "Libre Barcode 39 Text", "Libre Baskerville", "Libre Franklin", "Life Savers", "Lilita One", "Lily Script One", "Limelight", "Linden Hill", "Lobster", "Lobster Two", "Londrina Outline", "Londrina Shadow", "Londrina Sketch", "Londrina Solid", "Lora", "Love Ya Like A Sister", "Loved by the King", "Lovers Quarrel", "Luckiest Guy", "Lusitana", "Lustria", "Macondo", "Macondo Swash Caps", "Mada", "Magra", "Maiden Orange", "Maitree", "Mako", "Mallanna", "Mandali", "Manuale", "Marcellus", "Marcellus SC", "Marck Script", "Margarine", "Marko One", "Marmelad", "Martel", "Martel Sans", "Marvel", "Mate", "Mate SC", "Maven Pro", "McLaren", "Meddon", "MedievalSharp", "Medula One", "Meera Inimai", "Megrim", "Meie Script", "Merienda", "Merienda One", "Merriweather", "Merriweather Sans", "Metal", "Metal Mania", "Metamorphous", "Metrophobic", "Michroma", "Milonga", "Miltonian", "Miltonian Tattoo", "Miniver", "Miriam Libre", "Mirza", "Miss Fajardose", "Mitr", "Modak", "Modern Antiqua", "Mogra", "Molengo", "Molle", "Monda", "Monofett", "Monoton", "Monsieur La Doulaise", "Montaga", "Montez", "Montserrat", "Montserrat Alternates", "Montserrat Subrayada", "Moul", "Moulpali", "Mountains of Christmas", "Mouse Memoirs", "Mr Bedfort", "Mr Dafoe", "Mr De Haviland", "Mrs Saint Delafield", "Mrs Sheppards", "Mukta", "Mukta Mahee", "Mukta Malar", "Mukta Vaani", "Muli", "Mystery Quest", "NTR", "Neucha", "Neuton", "New Rocker", "News Cycle", "Niconne", "Nixie One", "Nobile", "Nokora", "Norican", "Nosifer", "Nothing You Could Do", "Noticia Text", "Noto Sans", "Noto Serif", "Nova Cut", "Nova Flat", "Nova Mono", "Nova Oval", "Nova Round", "Nova Script", "Nova Slim", "Nova Square", "Numans", "Nunito", "Nunito Sans", "Odor Mean Chey", "Offside", "Old Standard TT", "Oldenburg", "Oleo Script", "Oleo Script Swash Caps", "Open Sans", "Open Sans Condensed", "Oranienbaum", "Orbitron", "Oregano", "Orienta", "Original Surfer", "Oswald", "Over the Rainbow", "Overlock", "Overlock SC", "Overpass", "Overpass Mono", "Ovo", "Oxygen", "Oxygen Mono", "PT Mono", "PT Sans", "PT Sans Caption", "PT Sans Narrow", "PT Serif", "PT Serif Caption", "Pacifico", "Padauk", "Palanquin", "Palanquin Dark", "Pangolin", "Paprika", "Parisienne", "Passero One", "Passion One", "Pathway Gothic One", "Patrick Hand", "Patrick Hand SC", "Pattaya", "Patua One", "Pavanam", "Paytone One", "Peddana", "Peralta", "Permanent Marker", "Petit Formal Script", "Petrona", "Philosopher", "Piedra", "Pinyon Script", "Pirata One", "Plaster", "Play", "Playball", "Playfair Display", "Playfair Display SC", "Podkova", "Poiret One", "Poller One", "Poly", "Pompiere", "Pontano Sans", "Poppins", "Port Lligat Sans", "Port Lligat Slab", "Pragati Narrow", "Prata", "Preahvihear", "Press Start 2P", "Pridi", "Princess Sofia", "Prociono", "Prompt", "Prosto One", "Proza Libre", "Puritan", "Purple Purse", "Quando", "Quantico", "Quattrocento", "Quattrocento Sans", "Questrial", "Quicksand", "Quintessential", "Qwigley", "Racing Sans One", "Radley", "Rajdhani", "Rakkas", "Raleway", "Raleway Dots", "Ramabhadra", "Ramaraja", "Rambla", "Rammetto One", "Ranchers", "Rancho", "Ranga", "Rasa", "Rationale", "Ravi Prakash", "Redressed", "Reem Kufi", "Reenie Beanie", "Revalia", "Rhodium Libre", "Ribeye", "Ribeye Marrow", "Righteous", "Risque", "Roboto", "Roboto Condensed", "Roboto Mono", "Roboto Slab", "Rochester", "Rock Salt", "Rokkitt", "Romanesco", "Ropa Sans", "Rosario", "Rosarivo", "Rouge Script", "Rozha One", "Rubik", "Rubik Mono One", "Ruda", "Rufina", "Ruge Boogie", "Ruluko", "Rum Raisin", "Ruslan Display", "Russo One", "Ruthie", "Rye", "Sacramento", "Sahitya", "Sail", "Saira", "Saira Condensed", "Saira Extra Condensed", "Saira Semi Condensed", "Salsa", "Sanchez", "Sancreek", "Sansita", "Sarala", "Sarina", "Sarpanch", "Satisfy", "Scada", "Scheherazade", "Schoolbell", "Scope One", "Seaweed Script", "Secular One", "Sedgwick Ave", "Sedgwick Ave Display", "Sevillana", "Seymour One", "Shadows Into Light", "Shadows Into Light Two", "Shanti", "Share", "Share Tech", "Share Tech Mono", "Shojumaru", "Short Stack", "Shrikhand", "Siemreap", "Sigmar One", "Signika", "Signika Negative", "Simonetta", "Sintony", "Sirin Stencil", "Six Caps", "Skranji", "Slabo 13px", "Slabo 27px", "Slackey", "Smokum", "Smythe", "Sniglet", "Snippet", "Snowburst One", "Sofadi One", "Sofia", "Sonsie One", "Sorts Mill Goudy", "Source Code Pro", "Source Sans Pro", "Source Serif Pro", "Space Mono", "Special Elite", "Spectral", "Spectral SC", "Spicy Rice", "Spinnaker", "Spirax", "Squada One", "Sree Krushnadevaraya", "Sriracha", "Stalemate", "Stalinist One", "Stardos Stencil", "Stint Ultra Condensed", "Stint Ultra Expanded", "Stoke", "Strait", "Sue Ellen Francisco", "Suez One", "Sumana", "Sunshiney", "Supermercado One", "Sura", "Suranna", "Suravaram", "Suwannaphum", "Swanky and Moo Moo", "Syncopate", "Tangerine", "Taprom", "Tauri", "Taviraj", "Teko", "Telex", "Tenali Ramakrishna", "Tenor Sans", "Text Me One", "The Girl Next Door", "Tienne", "Tillana", "Timmana", "Tinos", "Titan One", "Titillium Web", "Trade Winds", "Trirong", "Trocchi", "Trochut", "Trykker", "Tulpen One", "Ubuntu", "Ubuntu Condensed", "Ubuntu Mono", "Ultra", "Uncial Antiqua", "Underdog", "Unica One", "UnifrakturCook", "UnifrakturMaguntia", "Unkempt", "Unlock", "Unna", "VT323", "Vampiro One", "Varela", "Varela Round", "Vast Shadow", "Vesper Libre", "Vibur", "Vidaloka", "Viga", "Voces", "Volkhov", "Vollkorn", "Vollkorn SC", "Voltaire", "Waiting for the Sunrise", "Wallpoet", "Walter Turncoat", "Warnes", "Wellfleet", "Wendy One", "Wire One", "Work Sans", "Yanone Kaffeesatz", "Yantramanav", "Yatra One", "Yellowtail", "Yeseva One", "Yesteryear", "Yrsa", "Zeyada", "Zilla Slab", "Zilla Slab Highlight"],
+	"PIXEL_RATIO": 2,
+	"CANVAS_MAX_W": 32767,
+	"ABeeZee": {
+		"x": 0,
+		"y": 0
+	},
+	"Abel": {
+		"x": 68.7969,
+		"y": 0
+	},
+	"Abhaya Libre": {
+		"x": 98.28129999999999,
+		"y": 0
+	},
+	"Abril Fatface": {
+		"x": 189.26569999999998,
+		"y": 0
+	},
+	"Aclonica": {
+		"x": 288.8907,
+		"y": 0
+	},
+	"Acme": {
+		"x": 368.5626,
+		"y": 0
+	},
+	"Actor": {
+		"x": 409.0001,
+		"y": 0
+	},
+	"Adamina": {
+		"x": 450.0001,
+		"y": 0
+	},
+	"Advent Pro": {
+		"x": 523.4689,
+		"y": 0
+	},
+	"Aguafina Script": {
+		"x": 593.7189,
+		"y": 0
+	},
+	"Akronim": {
+		"x": 672.0157999999999,
+		"y": 0
+	},
+	"Aladin": {
+		"x": 722.7969999999999,
+		"y": 0
+	},
+	"Aldrich": {
+		"x": 761.8750999999999,
+		"y": 0
+	},
+	"Alef": {
+		"x": 823.0312999999999,
+		"y": 0
+	},
+	"Alegreya": {
+		"x": 857.2031999999999,
+		"y": 0
+	},
+	"Alegreya SC": {
+		"x": 916.6406999999999,
+		"y": 0
+	},
+	"Alegreya Sans": {
+		"x": 1006.5001,
+		"y": 0
+	},
+	"Alegreya Sans SC": {
+		"x": 1096.4845,
+		"y": 0
+	},
+	"Alex Brush": {
+		"x": 1214.0155,
+		"y": 0
+	},
+	"Alfa Slab One": {
+		"x": 1290.3124,
+		"y": 0
+	},
+	"Alice": {
+		"x": 1408.5314,
+		"y": 0
+	},
+	"Alike": {
+		"x": 1447.172,
+		"y": 0
+	},
+	"Alike Angular": {
+		"x": 1487.172,
+		"y": 0
+	},
+	"Allan": {
+		"x": 1588.5782,
+		"y": 0
+	},
+	"Allerta": {
+		"x": 1618.6251,
+		"y": 0
+	},
+	"Allerta Stencil": {
+		"x": 1679.0782,
+		"y": 0
+	},
+	"Allura": {
+		"x": 1798.4532,
+		"y": 0
+	},
+	"Almendra": {
+		"x": 1843.0312999999999,
+		"y": 0
+	},
+	"Almendra Display": {
+		"x": 1912.4532,
+		"y": 0
+	},
+	"Almendra SC": {
+		"x": 2038.7192,
+		"y": 0
+	},
+	"Amarante": {
+		"x": 2131.438,
+		"y": 0
+	},
+	"Amaranth": {
+		"x": 2201.8442,
+		"y": 0
+	},
+	"Amatic SC": {
+		"x": 2273.6098,
+		"y": 0
+	},
+	"Amethysta": {
+		"x": 2323.3129000000004,
+		"y": 0
+	},
+	"Amiko": {
+		"x": 2410.0941000000003,
+		"y": 0
+	},
+	"Amiri": {
+		"x": 2464.6566000000003,
+		"y": 0
+	},
+	"Amita": {
+		"x": 2505.2191000000003,
+		"y": 0
+	},
+	"Anaheim": {
+		"x": 2552.1879000000004,
+		"y": 0
+	},
+	"Andada": {
+		"x": 2611.9223,
+		"y": 0
+	},
+	"Andika": {
+		"x": 2671.0317,
+		"y": 0
+	},
+	"Angkor": {
+		"x": 2725.9692,
+		"y": 0
+	},
+	"Annie Use Your Telescope": {
+		"x": 2778.8598,
+		"y": 0
+	},
+	"Anonymous Pro": {
+		"x": 2920.5788000000002,
+		"y": 0
+	},
+	"Antic": {
+		"x": 3038.1258000000003,
+		"y": 0
+	},
+	"Antic Didone": {
+		"x": 3076.4383000000003,
+		"y": 0
+	},
+	"Antic Slab": {
+		"x": 3171.7039000000004,
+		"y": 0
+	},
+	"Anton": {
+		"x": 3246.0789000000004,
+		"y": 0
+	},
+	"Arapey": {
+		"x": 3286.6414000000004,
+		"y": 0
+	},
+	"Arbutus": {
+		"x": 3334.8289000000004,
+		"y": 0
+	},
+	"Arbutus Slab": {
+		"x": 3418.8289000000004,
+		"y": 0
+	},
+	"Architects Daughter": {
+		"x": 3523.1409000000003,
+		"y": 0
+	},
+	"Archivo": {
+		"x": 3679.6099000000004,
+		"y": 0
+	},
+	"Archivo Black": {
+		"x": 3736.9693,
+		"y": 0
+	},
+	"Archivo Narrow": {
+		"x": 3862.0783,
+		"y": 0
+	},
+	"Aref Ruqaa": {
+		"x": 3955.7502,
+		"y": 0
+	},
+	"Arima Madurai": {
+		"x": 4032.2502,
+		"y": 0
+	},
+	"Arimo": {
+		"x": 4143.7342,
+		"y": 0
+	},
+	"Arizonia": {
+		"x": 4189.5154,
+		"y": 0
+	},
+	"Armata": {
+		"x": 4251.171600000001,
+		"y": 0
+	},
+	"Arsenal": {
+		"x": 4316.484100000001,
+		"y": 0
+	},
+	"Artifika": {
+		"x": 4368.015300000001,
+		"y": 0
+	},
+	"Arvo": {
+		"x": 4436.359100000001,
+		"y": 0
+	},
+	"Arya": {
+		"x": 4478.0779,
+		"y": 0
+	},
+	"Asap": {
+		"x": 4511.7029,
+		"y": 0
+	},
+	"Asap Condensed": {
+		"x": 4550.0154,
+		"y": 0
+	},
+	"Asar": {
+		"x": 4651.7029,
+		"y": 0
+	},
+	"Asset": {
+		"x": 4685.2967,
+		"y": 0
+	},
+	"Assistant": {
+		"x": 4788.0154999999995,
+		"y": 0
+	},
+	"Astloch": {
+		"x": 4851.6717,
+		"y": 0
+	},
+	"Asul": {
+		"x": 4898.0936,
+		"y": 0
+	},
+	"Athiti": {
+		"x": 4932.453,
+		"y": 0
+	},
+	"Atma": {
+		"x": 4972.359200000001,
+		"y": 0
+	},
+	"Atomic Age": {
+		"x": 5010.203,
+		"y": 0
+	},
+	"Aubrey": {
+		"x": 5104.874900000001,
+		"y": 0
+	},
+	"Audiowide": {
+		"x": 5147.578,
+		"y": 0
+	},
+	"Autour One": {
+		"x": 5242.437400000001,
+		"y": 0
+	},
+	"Average": {
+		"x": 5352.937400000001,
+		"y": 0
+	},
+	"Average Sans": {
+		"x": 5409.9062,
+		"y": 0
+	},
+	"Averia Gruesa Libre": {
+		"x": 5500.2812,
+		"y": 0
+	},
+	"Averia Libre": {
+		"x": 5644.1562,
+		"y": 0
+	},
+	"Averia Sans Libre": {
+		"x": 5734.828100000001,
+		"y": 0
+	},
+	"Averia Serif Libre": {
+		"x": 5860.6401000000005,
+		"y": 0
+	},
+	"Bad Script": {
+		"x": 5994.4061,
+		"y": 0
+	},
+	"Bahiana": {
+		"x": 6062.7186,
+		"y": 0
+	},
+	"Baloo": {
+		"x": 6100.0155,
+		"y": 0
+	},
+	"Baloo Bhai": {
+		"x": 6145.8593,
+		"y": 0
+	},
+	"Baloo Bhaijaan": {
+		"x": 6227.3905,
+		"y": 0
+	},
+	"Baloo Bhaina": {
+		"x": 6340.249500000001,
+		"y": 0
+	},
+	"Baloo Chettan": {
+		"x": 6439.812000000001,
+		"y": 0
+	},
+	"Baloo Da": {
+		"x": 6546.968000000001,
+		"y": 0
+	},
+	"Baloo Paaji": {
+		"x": 6615.374200000001,
+		"y": 0
+	},
+	"Baloo Tamma": {
+		"x": 6700.077300000001,
+		"y": 0
+	},
+	"Baloo Tammudu": {
+		"x": 6802.014800000001,
+		"y": 0
+	},
+	"Baloo Thambi": {
+		"x": 6923.248800000001,
+		"y": 0
+	},
+	"Balthazar": {
+		"x": 7026.748800000001,
+		"y": 0
+	},
+	"Bangers": {
+		"x": 7089.311300000001,
+		"y": 0
+	},
+	"Barlow": {
+		"x": 7141.748800000001,
+		"y": 0
+	},
+	"Barlow Condensed": {
+		"x": 7193.3582000000015,
+		"y": 0
+	},
+	"Barlow Semi Condensed": {
+		"x": 7296.8582000000015,
+		"y": 0
+	},
+	"Barrio": {
+		"x": 7449.155200000001,
+		"y": 0
+	},
+	"Basic": {
+		"x": 7501.092700000001,
+		"y": 0
+	},
+	"Battambang": {
+		"x": 7539.858300000001,
+		"y": 0
+	},
+	"Baumans": {
+		"x": 7621.170800000001,
+		"y": 0
+	},
+	"Bayon": {
+		"x": 7686.733300000001,
+		"y": 0
+	},
+	"Belgrano": {
+		"x": 7732.514500000001,
+		"y": 0
+	},
+	"Bellefair": {
+		"x": 7807.514500000001,
+		"y": 0
+	},
+	"Belleza": {
+		"x": 7860.155100000001,
+		"y": 0
+	},
+	"BenchNine": {
+		"x": 7911.170700000001,
+		"y": 0
+	},
+	"Bentham": {
+		"x": 7964.405100000001,
+		"y": 0
+	},
+	"Berkshire Swash": {
+		"x": 8028.3739000000005,
+		"y": 0
+	},
+	"Bevan": {
+		"x": 8145.3899,
+		"y": 0
+	},
+	"Bigelow Rules": {
+		"x": 8207.343,
+		"y": 0
+	},
+	"Bigshot One": {
+		"x": 8263.311800000001,
+		"y": 0
+	},
+	"Bilbo": {
+		"x": 8353.655600000002,
+		"y": 0
+	},
+	"Bilbo Swash Caps": {
+		"x": 8382.155600000002,
+		"y": 0
+	},
+	"BioRhyme": {
+		"x": 8476.218100000002,
+		"y": 0
+	},
+	"BioRhyme Expanded": {
+		"x": 8567.265000000001,
+		"y": 0
+	},
+	"Biryani": {
+		"x": 8869.203000000001,
+		"y": 0
+	},
+	"Bitter": {
+		"x": 8927.453000000001,
+		"y": 0
+	},
+	"Black Ops One": {
+		"x": 8975.453000000001,
+		"y": 0
+	},
+	"Bokor": {
+		"x": 9100.953000000001,
+		"y": 0
+	},
+	"Bonbon": {
+		"x": 9144.953000000001,
+		"y": 0
+	},
+	"Boogaloo": {
+		"x": 9212.843600000002,
+		"y": 0
+	},
+	"Bowlby One": {
+		"x": 9265.249800000001,
+		"y": 0
+	},
+	"Bowlby One SC": {
+		"x": 9379.405800000002,
+		"y": 0
+	},
+	"Brawler": {
+		"x": 9519.811800000003,
+		"y": 0
+	},
+	"Bree Serif": {
+		"x": 9582.593000000003,
+		"y": 0
+	},
+	"Bubblegum Sans": {
+		"x": 9656.452400000002,
+		"y": 0
+	},
+	"Bubbler One": {
+		"x": 9758.264900000002,
+		"y": 0
+	},
+	"Buda": {
+		"x": 9834.468000000003,
+		"y": 0
+	},
+	"Buenard": {
+		"x": 9872.249200000002,
+		"y": 0
+	},
+	"Bungee": {
+		"x": 9932.639800000003,
+		"y": 0
+	},
+	"Bungee Hairline": {
+		"x": 10004.483600000003,
+		"y": 0
+	},
+	"Bungee Inline": {
+		"x": 10168.639600000004,
+		"y": 0
+	},
+	"Bungee Outline": {
+		"x": 10309.123600000004,
+		"y": 0
+	},
+	"Bungee Shade": {
+		"x": 10462.107600000005,
+		"y": 0
+	},
+	"Butcherman": {
+		"x": 10613.373600000004,
+		"y": 0
+	},
+	"Butterfly Kids": {
+		"x": 10718.748600000004,
+		"y": 0
+	},
+	"Cabin": {
+		"x": 10794.404800000004,
+		"y": 0
+	},
+	"Cabin Condensed": {
+		"x": 10837.170400000005,
+		"y": 0
+	},
+	"Cabin Sketch": {
+		"x": 10944.498400000004,
+		"y": 0
+	},
+	"Caesar Dressing": {
+		"x": 11037.076500000005,
+		"y": 0
+	},
+	"Cagliostro": {
+		"x": 11144.779500000004,
+		"y": 0
+	},
+	"Cairo": {
+		"x": 11219.888900000004,
+		"y": 0
+	},
+	"Calligraffitti": {
+		"x": 11257.935800000003,
+		"y": 0
+	},
+	"Cambay": {
+		"x": 11339.092000000002,
+		"y": 0
+	},
+	"Cambo": {
+		"x": 11398.873200000002,
+		"y": 0
+	},
+	"Candal": {
+		"x": 11451.623200000002,
+		"y": 0
+	},
+	"Cantarell": {
+		"x": 11518.013800000002,
+		"y": 0
+	},
+	"Cantata One": {
+		"x": 11588.982600000003,
+		"y": 0
+	},
+	"Cantora One": {
+		"x": 11695.654600000003,
+		"y": 0
+	},
+	"Capriola": {
+		"x": 11783.576500000003,
+		"y": 0
+	},
+	"Cardo": {
+		"x": 11855.560900000002,
+		"y": 0
+	},
+	"Carme": {
+		"x": 11901.717100000002,
+		"y": 0
+	},
+	"Carrois Gothic": {
+		"x": 11952.545200000002,
+		"y": 0
+	},
+	"Carrois Gothic SC": {
+		"x": 12054.170200000002,
+		"y": 0
+	},
+	"Carter One": {
+		"x": 12193.373200000002,
+		"y": 0
+	},
+	"Catamaran": {
+		"x": 12282.404400000001,
+		"y": 0
+	},
+	"Caudex": {
+		"x": 12358.404400000001,
+		"y": 0
+	},
+	"Caveat": {
+		"x": 12418.123200000002,
+		"y": 0
+	},
+	"Caveat Brush": {
+		"x": 12458.873200000002,
+		"y": 0
+	},
+	"Cedarville Cursive": {
+		"x": 12537.295100000001,
+		"y": 0
+	},
+	"Ceviche One": {
+		"x": 12671.201100000002,
+		"y": 0
+	},
+	"Changa": {
+		"x": 12743.466700000003,
+		"y": 0
+	},
+	"Changa One": {
+		"x": 12799.263600000002,
+		"y": 0
+	},
+	"Chango": {
+		"x": 12888.076100000002,
+		"y": 0
+	},
+	"Chathura": {
+		"x": 12971.904200000003,
+		"y": 0
+	},
+	"Chau Philomene One": {
+		"x": 13006.919800000003,
+		"y": 0
+	},
+	"Chela One": {
+		"x": 13138.294800000003,
+		"y": 0
+	},
+	"Chelsea Market": {
+		"x": 13201.388600000004,
+		"y": 0
+	},
+	"Chenla": {
+		"x": 13333.185600000004,
+		"y": 0
+	},
+	"Cherry Cream Soda": {
+		"x": 13382.513700000005,
+		"y": 0
+	},
+	"Cherry Swash": {
+		"x": 13563.060700000005,
+		"y": 0
+	},
+	"Chewy": {
+		"x": 13667.419700000006,
+		"y": 0
+	},
+	"Chicle": {
+		"x": 13714.169700000006,
+		"y": 0
+	},
+	"Chivo": {
+		"x": 13750.138500000006,
+		"y": 0
+	},
+	"Chonburi": {
+		"x": 13795.779100000007,
+		"y": 0
+	},
+	"Cinzel": {
+		"x": 13885.872900000008,
+		"y": 0
+	},
+	"Cinzel Decorative": {
+		"x": 13946.763500000008,
+		"y": 0
+	},
+	"Clicker Script": {
+		"x": 14119.654500000008,
+		"y": 0
+	},
+	"Coda": {
+		"x": 14195.857600000008,
+		"y": 0
+	},
+	"Coda Caption": {
+		"x": 14237.24820000001,
+		"y": 0
+	},
+	"Codystar": {
+		"x": 14329.68570000001,
+		"y": 0
+	},
+	"Coiny": {
+		"x": 14419.62320000001,
+		"y": 0
+	},
+	"Combo": {
+		"x": 14470.545100000008,
+		"y": 0
+	},
+	"Comfortaa": {
+		"x": 14515.06070000001,
+		"y": 0
+	},
+	"Coming Soon": {
+		"x": 14608.545100000008,
+		"y": 0
+	},
+	"Concert One": {
+		"x": 14708.029500000008,
+		"y": 0
+	},
+	"Condiment": {
+		"x": 14797.123300000008,
+		"y": 0
+	},
+	"Content": {
+		"x": 14859.498300000008,
+		"y": 0
+	},
+	"Contrail One": {
+		"x": 14914.170200000008,
+		"y": 0
+	},
+	"Convergence": {
+		"x": 14997.685800000008,
+		"y": 0
+	},
+	"Cookie": {
+		"x": 15099.482700000008,
+		"y": 0
+	},
+	"Copse": {
+		"x": 15134.701500000008,
+		"y": 0
+	},
+	"Corben": {
+		"x": 15181.764000000008,
+		"y": 0
+	},
+	"Cormorant": {
+		"x": 15240.545200000008,
+		"y": 0
+	},
+	"Cormorant Garamond": {
+		"x": 15314.576400000007,
+		"y": 0
+	},
+	"Cormorant Infant": {
+		"x": 15459.357400000008,
+		"y": 0
+	},
+	"Cormorant SC": {
+		"x": 15578.310400000008,
+		"y": 0
+	},
+	"Cormorant Unicase": {
+		"x": 15687.857400000008,
+		"y": 0
+	},
+	"Cormorant Upright": {
+		"x": 15834.232400000008,
+		"y": 0
+	},
+	"Courgette": {
+		"x": 15957.841400000008,
+		"y": 0
+	},
+	"Cousine": {
+		"x": 16028.997600000008,
+		"y": 0
+	},
+	"Coustard": {
+		"x": 16100.216400000008,
+		"y": 0
+	},
+	"Covered By Your Grace": {
+		"x": 16175.169500000009,
+		"y": 0
+	},
+	"Crafty Girls": {
+		"x": 0,
+		"y": 16
+	},
+	"Creepster": {
+		"x": 100.1562,
+		"y": 16
+	},
+	"Crete Round": {
+		"x": 166.0781,
+		"y": 16
+	},
+	"Crimson Text": {
+		"x": 259.0625,
+		"y": 16
+	},
+	"Croissant One": {
+		"x": 350.9687,
+		"y": 16
+	},
+	"Crushed": {
+		"x": 473.4687,
+		"y": 16
+	},
+	"Cuprum": {
+		"x": 524.6406000000001,
+		"y": 16
+	},
+	"Cutive": {
+		"x": 574.4844,
+		"y": 16
+	},
+	"Cutive Mono": {
+		"x": 638.5156000000001,
+		"y": 16
+	},
+	"Damion": {
+		"x": 749.0776000000001,
+		"y": 16
+	},
+	"Dancing Script": {
+		"x": 799.7338000000001,
+		"y": 16
+	},
+	"Dangrek": {
+		"x": 889.3119000000002,
+		"y": 16
+	},
+	"David Libre": {
+		"x": 948.4057000000001,
+		"y": 16
+	},
+	"Dawning of a New Day": {
+		"x": 1026.8745000000001,
+		"y": 16
+	},
+	"Days One": {
+		"x": 1163.6405000000002,
+		"y": 16
+	},
+	"Dekko": {
+		"x": 1251.0780000000002,
+		"y": 16
+	},
+	"Delius": {
+		"x": 1292.8749000000003,
+		"y": 16
+	},
+	"Delius Swash Caps": {
+		"x": 1340.6405000000002,
+		"y": 16
+	},
+	"Delius Unicase": {
+		"x": 1481.7345000000003,
+		"y": 16
+	},
+	"Della Respira": {
+		"x": 1633.0155000000002,
+		"y": 16
+	},
+	"Denk One": {
+		"x": 1730.4374000000003,
+		"y": 16
+	},
+	"Devonshire": {
+		"x": 1798.6405000000002,
+		"y": 16
+	},
+	"Dhurjati": {
+		"x": 1855.0311000000002,
+		"y": 16
+	},
+	"Didact Gothic": {
+		"x": 1903.1717,
+		"y": 16
+	},
+	"Diplomata": {
+		"x": 1998.3279,
+		"y": 16
+	},
+	"Diplomata SC": {
+		"x": 2164.7659,
+		"y": 16
+	},
+	"Domine": {
+		"x": 2385.6879,
+		"y": 16
+	},
+	"Donegal One": {
+		"x": 2451.0472999999997,
+		"y": 16
+	},
+	"Doppio One": {
+		"x": 2556.6562999999996,
+		"y": 16
+	},
+	"Dorsa": {
+		"x": 2646.8124999999995,
+		"y": 16
+	},
+	"Dosis": {
+		"x": 2666.1874999999995,
+		"y": 16
+	},
+	"Dr Sugiyama": {
+		"x": 2702.0155999999997,
+		"y": 16
+	},
+	"Duru Sans": {
+		"x": 2777.6874999999995,
+		"y": 16
+	},
+	"Dynalight": {
+		"x": 2864.3905999999997,
+		"y": 16
+	},
+	"EB Garamond": {
+		"x": 2918.7967999999996,
+		"y": 16
+	},
+	"Eagle Lake": {
+		"x": 3011.1092999999996,
+		"y": 16
+	},
+	"Eater": {
+		"x": 3111.3592999999996,
+		"y": 16
+	},
+	"Economica": {
+		"x": 3169.6404999999995,
+		"y": 16
+	},
+	"Eczar": {
+		"x": 3226.4060999999997,
+		"y": 16
+	},
+	"El Messiri": {
+		"x": 3268.0779999999995,
+		"y": 16
+	},
+	"Electrolize": {
+		"x": 3339.1091999999994,
+		"y": 16
+	},
+	"Elsie": {
+		"x": 3419.3122999999996,
+		"y": 16
+	},
+	"Elsie Swash Caps": {
+		"x": 3458.0622999999996,
+		"y": 16
+	},
+	"Emblema One": {
+		"x": 3583.2502999999997,
+		"y": 16
+	},
+	"Emilys Candy": {
+		"x": 3713.8282999999997,
+		"y": 16
+	},
+	"Encode Sans": {
+		"x": 3811.0471,
+		"y": 16
+	},
+	"Encode Sans Condensed": {
+		"x": 3903.6564999999996,
+		"y": 16
+	},
+	"Encode Sans Expanded": {
+		"x": 4053.2974999999997,
+		"y": 16
+	},
+	"Encode Sans Semi Condensed": {
+		"x": 4242.8595,
+		"y": 16
+	},
+	"Encode Sans Semi Expanded": {
+		"x": 4440.656499999999,
+		"y": 16
+	},
+	"Engagement": {
+		"x": 4658.953499999999,
+		"y": 16
+	},
+	"Englebert": {
+		"x": 4710.859699999999,
+		"y": 16
+	},
+	"Enriqueta": {
+		"x": 4773.953499999999,
+		"y": 16
+	},
+	"Erica One": {
+		"x": 4850.390999999999,
+		"y": 16
+	},
+	"Esteban": {
+		"x": 4936.234799999998,
+		"y": 16
+	},
+	"Euphoria Script": {
+		"x": 4996.375399999998,
+		"y": 16
+	},
+	"Ewert": {
+		"x": 5079.375399999998,
+		"y": 16
+	},
+	"Exo": {
+		"x": 5142.312899999998,
+		"y": 16
+	},
+	"Exo 2": {
+		"x": 5172.578499999998,
+		"y": 16
+	},
+	"Expletus Sans": {
+		"x": 5216.6565999999975,
+		"y": 16
+	},
+	"Fanwood Text": {
+		"x": 5320.6875999999975,
+		"y": 16
+	},
+	"Farsan": {
+		"x": 5412.140699999997,
+		"y": 16
+	},
+	"Fascinate": {
+		"x": 5450.968799999997,
+		"y": 16
+	},
+	"Fascinate Inline": {
+		"x": 5539.640699999997,
+		"y": 16
+	},
+	"Faster One": {
+		"x": 5684.468699999998,
+		"y": 16
+	},
+	"Fasthand": {
+		"x": 5792.827699999998,
+		"y": 16
+	},
+	"Fauna One": {
+		"x": 5854.608899999998,
+		"y": 16
+	},
+	"Faustina": {
+		"x": 5946.999499999998,
+		"y": 16
+	},
+	"Federant": {
+		"x": 6009.593299999998,
+		"y": 16
+	},
+	"Federo": {
+		"x": 6078.030799999998,
+		"y": 16
+	},
+	"Felipa": {
+		"x": 6128.499599999997,
+		"y": 16
+	},
+	"Fenix": {
+		"x": 6166.858999999998,
+		"y": 16
+	},
+	"Finger Paint": {
+		"x": 6207.265199999998,
+		"y": 16
+	},
+	"Fira Mono": {
+		"x": 6311.046399999998,
+		"y": 16
+	},
+	"Fira Sans": {
+		"x": 6401.452599999999,
+		"y": 16
+	},
+	"Fira Sans Condensed": {
+		"x": 6470.093199999998,
+		"y": 16
+	},
+	"Fira Sans Extra Condensed": {
+		"x": 6608.999199999998,
+		"y": 16
+	},
+	"Fjalla One": {
+		"x": 6770.280199999998,
+		"y": 16
+	},
+	"Fjord One": {
+		"x": 6834.139599999999,
+		"y": 16
+	},
+	"Flamenco": {
+		"x": 6909.202099999999,
+		"y": 16
+	},
+	"Flavors": {
+		"x": 6973.748999999999,
+		"y": 16
+	},
+	"Fondamento": {
+		"x": 7026.827099999999,
+		"y": 16
+	},
+	"Fontdiner Swanky": {
+		"x": 7114.139599999999,
+		"y": 16
+	},
+	"Forum": {
+		"x": 7275.748599999999,
+		"y": 16
+	},
+	"Francois One": {
+		"x": 7320.623599999999,
+		"y": 16
+	},
+	"Frank Ruhl Libre": {
+		"x": 7409.842399999999,
+		"y": 16
+	},
+	"Freckle Face": {
+		"x": 7530.951399999999,
+		"y": 16
+	},
+	"Fredericka the Great": {
+		"x": 7623.201399999999,
+		"y": 16
+	},
+	"Fredoka One": {
+		"x": 7783.389399999999,
+		"y": 16
+	},
+	"Freehand": {
+		"x": 7884.748799999999,
+		"y": 16
+	},
+	"Fresca": {
+		"x": 7948.28,
+		"y": 16
+	},
+	"Frijole": {
+		"x": 7991.0612,
+		"y": 16
+	},
+	"Fruktur": {
+		"x": 8077.7174,
+		"y": 16
+	},
+	"Fugaz One": {
+		"x": 8139.498600000001,
+		"y": 16
+	},
+	"GFS Didot": {
+		"x": 8222.733,
+		"y": 16
+	},
+	"GFS Neohellenic": {
+		"x": 8296.5299,
+		"y": 16
+	},
+	"Gabriela": {
+		"x": 8411.1859,
+		"y": 16
+	},
+	"Gafata": {
+		"x": 8480.2953,
+		"y": 16
+	},
+	"Galada": {
+		"x": 8526.3734,
+		"y": 16
+	},
+	"Galdeano": {
+		"x": 8576.967200000001,
+		"y": 16
+	},
+	"Galindo": {
+		"x": 8640.904700000001,
+		"y": 16
+	},
+	"Gentium Basic": {
+		"x": 8706.5609,
+		"y": 16
+	},
+	"Gentium Book Basic": {
+		"x": 8804.451500000001,
+		"y": 16
+	},
+	"Geo": {
+		"x": 8941.8425,
+		"y": 16
+	},
+	"Geostar": {
+		"x": 8968.3894,
+		"y": 16
+	},
+	"Geostar Fill": {
+		"x": 9055.7175,
+		"y": 16
+	},
+	"Germania One": {
+		"x": 9181.748500000002,
+		"y": 16
+	},
+	"Gidugu": {
+		"x": 9271.201600000002,
+		"y": 16
+	},
+	"Gilda Display": {
+		"x": 9308.045400000003,
+		"y": 16
+	},
+	"Give You Glory": {
+		"x": 9410.170400000003,
+		"y": 16
+	},
+	"Glass Antiqua": {
+		"x": 9521.982400000003,
+		"y": 16
+	},
+	"Glegoo": {
+		"x": 9606.685500000003,
+		"y": 16
+	},
+	"Gloria Hallelujah": {
+		"x": 9664.716700000003,
+		"y": 16
+	},
+	"Goblin One": {
+		"x": 9789.841700000003,
+		"y": 16
+	},
+	"Gochi Hand": {
+		"x": 9922.622700000004,
+		"y": 16
+	},
+	"Gorditas": {
+		"x": 10001.310200000004,
+		"y": 16
+	},
+	"Goudy Bookletter 1911": {
+		"x": 10073.747700000004,
+		"y": 16
+	},
+	"Graduate": {
+		"x": 10246.294700000004,
+		"y": 16
+	},
+	"Grand Hotel": {
+		"x": 10334.122800000005,
+		"y": 16
+	},
+	"Gravitas One": {
+		"x": 10399.872800000005,
+		"y": 16
+	},
+	"Great Vibes": {
+		"x": 10551.231800000005,
+		"y": 16
+	},
+	"Griffy": {
+		"x": 10619.403700000004,
+		"y": 16
+	},
+	"Gruppo": {
+		"x": 10665.122500000005,
+		"y": 16
+	},
+	"Gudea": {
+		"x": 10726.622500000005,
+		"y": 16
+	},
+	"Gurajada": {
+		"x": 10774.419400000004,
+		"y": 16
+	},
+	"Habibi": {
+		"x": 10819.950600000004,
+		"y": 16
+	},
+	"Halant": {
+		"x": 10871.981800000003,
+		"y": 16
+	},
+	"Hammersmith One": {
+		"x": 10920.059900000004,
+		"y": 16
+	},
+	"Hanalei": {
+		"x": 11062.840900000005,
+		"y": 16
+	},
+	"Hanalei Fill": {
+		"x": 11122.044000000005,
+		"y": 16
+	},
+	"Handlee": {
+		"x": 11211.278400000005,
+		"y": 16
+	},
+	"Hanuman": {
+		"x": 11267.965900000005,
+		"y": 16
+	},
+	"Happy Monkey": {
+		"x": 11334.169000000005,
+		"y": 16
+	},
+	"Harmattan": {
+		"x": 11458.731000000005,
+		"y": 16
+	},
+	"Headland One": {
+		"x": 11522.715400000005,
+		"y": 16
+	},
+	"Heebo": {
+		"x": 11644.606400000004,
+		"y": 16
+	},
+	"Henny Penny": {
+		"x": 11695.122000000005,
+		"y": 16
+	},
+	"Herr Von Muellerhoff": {
+		"x": 11791.903200000004,
+		"y": 16
+	},
+	"Hind": {
+		"x": 11887.106300000005,
+		"y": 16
+	},
+	"Hind Guntur": {
+		"x": 11922.840700000004,
+		"y": 16
+	},
+	"Hind Madurai": {
+		"x": 12010.246900000004,
+		"y": 16
+	},
+	"Hind Siliguri": {
+		"x": 12105.996900000004,
+		"y": 16
+	},
+	"Hind Vadodara": {
+		"x": 12191.278100000003,
+		"y": 16
+	},
+	"Holtwood One SC": {
+		"x": 12297.075100000004,
+		"y": 16
+	},
+	"Homemade Apple": {
+		"x": 12491.856100000005,
+		"y": 16
+	},
+	"Homenaje": {
+		"x": 12649.262100000005,
+		"y": 16
+	},
+	"IM Fell DW Pica": {
+		"x": 12704.512100000005,
+		"y": 16
+	},
+	"IM Fell DW Pica SC": {
+		"x": 12819.731100000005,
+		"y": 16
+	},
+	"IM Fell Double Pica": {
+		"x": 12965.075100000004,
+		"y": 16
+	},
+	"IM Fell Double Pica SC": {
+		"x": 13100.356100000005,
+		"y": 16
+	},
+	"IM Fell English": {
+		"x": 13273.090100000005,
+		"y": 16
+	},
+	"IM Fell English SC": {
+		"x": 13383.371100000006,
+		"y": 16
+	},
+	"IM Fell French Canon": {
+		"x": 13525.277100000007,
+		"y": 16
+	},
+	"IM Fell French Canon SC": {
+		"x": 13679.293100000006,
+		"y": 16
+	},
+	"IM Fell Great Primer": {
+		"x": 13864.543100000006,
+		"y": 16
+	},
+	"IM Fell Great Primer SC": {
+		"x": 14010.465100000007,
+		"y": 16
+	},
+	"Iceberg": {
+		"x": 14202.262100000007,
+		"y": 16
+	},
+	"Iceland": {
+		"x": 14256.902700000008,
+		"y": 16
+	},
+	"Imprima": {
+		"x": 14305.465200000008,
+		"y": 16
+	},
+	"Inconsolata": {
+		"x": 14369.309000000008,
+		"y": 16
+	},
+	"Inder": {
+		"x": 14461.309000000008,
+		"y": 16
+	},
+	"Indie Flower": {
+		"x": 14502.652800000009,
+		"y": 16
+	},
+	"Inika": {
+		"x": 14584.387200000008,
+		"y": 16
+	},
+	"Inknut Antiqua": {
+		"x": 14627.340300000009,
+		"y": 16
+	},
+	"Irish Grover": {
+		"x": 14766.606300000009,
+		"y": 16
+	},
+	"Istok Web": {
+		"x": 14857.856300000009,
+		"y": 16
+	},
+	"Italiana": {
+		"x": 14933.512500000008,
+		"y": 16
+	},
+	"Italianno": {
+		"x": 14987.450000000008,
+		"y": 16
+	},
+	"Itim": {
+		"x": 15031.168800000009,
+		"y": 16
+	},
+	"Jacques Francois": {
+		"x": 15064.13760000001,
+		"y": 16
+	},
+	"Jacques Francois Shadow": {
+		"x": 15193.80960000001,
+		"y": 16
+	},
+	"Jaldi": {
+		"x": 15402.403600000009,
+		"y": 16
+	},
+	"Jim Nightshade": {
+		"x": 15435.23170000001,
+		"y": 16
+	},
+	"Jockey One": {
+		"x": 15513.216100000009,
+		"y": 16
+	},
+	"Jolly Lodger": {
+		"x": 15583.73170000001,
+		"y": 16
+	},
+	"Jomhuria": {
+		"x": 15642.10670000001,
+		"y": 16
+	},
+	"Josefin Sans": {
+		"x": 15682.841100000009,
+		"y": 16
+	},
+	"Josefin Slab": {
+		"x": 15773.528600000009,
+		"y": 16
+	},
+	"Joti One": {
+		"x": 15853.263000000008,
+		"y": 16
+	},
+	"Judson": {
+		"x": 15918.497400000007,
+		"y": 16
+	},
+	"Julee": {
+		"x": 15970.466200000008,
+		"y": 16
+	},
+	"Julius Sans One": {
+		"x": 16006.513100000007,
+		"y": 16
+	},
+	"Junge": {
+		"x": 16145.013100000007,
+		"y": 16
+	},
+	"Jura": {
+		"x": 16191.981900000008,
+		"y": 16
+	},
+	"Just Another Hand": {
+		"x": 16229.028800000007,
+		"y": 16
+	},
+	"Just Me Again Down Here": {
+		"x": 0,
+		"y": 32
+	},
+	"Kadwa": {
+		"x": 131.625,
+		"y": 32
+	},
+	"Kalam": {
+		"x": 187.8594,
+		"y": 32
+	},
+	"Kameron": {
+		"x": 232.9844,
+		"y": 32
+	},
+	"Kanit": {
+		"x": 302.0938,
+		"y": 32
+	},
+	"Kantumruy": {
+		"x": 343.7969,
+		"y": 32
+	},
+	"Karla": {
+		"x": 420.6719,
+		"y": 32
+	},
+	"Karma": {
+		"x": 462.9219,
+		"y": 32
+	},
+	"Katibeh": {
+		"x": 513.9844,
+		"y": 32
+	},
+	"Kaushan Script": {
+		"x": 557.0782,
+		"y": 32
+	},
+	"Kavivanar": {
+		"x": 661.4062,
+		"y": 32
+	},
+	"Kavoon": {
+		"x": 731.2187,
+		"y": 32
+	},
+	"Kdam Thmor": {
+		"x": 792.7656000000001,
+		"y": 32
+	},
+	"Keania One": {
+		"x": 883.4218000000001,
+		"y": 32
+	},
+	"Kelly Slab": {
+		"x": 965.7030000000001,
+		"y": 32
+	},
+	"Kenia": {
+		"x": 1040.5468,
+		"y": 32
+	},
+	"Khand": {
+		"x": 1077.0937000000001,
+		"y": 32
+	},
+	"Khmer": {
+		"x": 1116.4062000000001,
+		"y": 32
+	},
+	"Khula": {
+		"x": 1164.8437000000001,
+		"y": 32
+	},
+	"Kite One": {
+		"x": 1208.3593,
+		"y": 32
+	},
+	"Knewave": {
+		"x": 1271.5624,
+		"y": 32
+	},
+	"Kotta One": {
+		"x": 1338.7499,
+		"y": 32
+	},
+	"Koulen": {
+		"x": 1410.703,
+		"y": 32
+	},
+	"Kranky": {
+		"x": 1461.8124,
+		"y": 32
+	},
+	"Kreon": {
+		"x": 1518.2968,
+		"y": 32
+	},
+	"Kristi": {
+		"x": 1561.9374,
+		"y": 32
+	},
+	"Krona One": {
+		"x": 1591.2655,
+		"y": 32
+	},
+	"Kumar One": {
+		"x": 1704.7495,
+		"y": 32
+	},
+	"Kumar One Outline": {
+		"x": 1814.7185,
+		"y": 32
+	},
+	"Kurale": {
+		"x": 1997.8905,
+		"y": 32
+	},
+	"La Belle Aurore": {
+		"x": 2047.8124,
+		"y": 32
+	},
+	"Laila": {
+		"x": 2159.2504,
+		"y": 32
+	},
+	"Lakki Reddy": {
+		"x": 2197.8285,
+		"y": 32
+	},
+	"Lalezar": {
+		"x": 2288.4379,
+		"y": 32
+	},
+	"Lancelot": {
+		"x": 2341.4847999999997,
+		"y": 32
+	},
+	"Lateef": {
+		"x": 2393.1879,
+		"y": 32
+	},
+	"Lato": {
+		"x": 2428.0004,
+		"y": 32
+	},
+	"League Script": {
+		"x": 2463.2035,
+		"y": 32
+	},
+	"Leckerli One": {
+		"x": 2565.2347,
+		"y": 32
+	},
+	"Ledger": {
+		"x": 2659.4066,
+		"y": 32
+	},
+	"Lekton": {
+		"x": 2718.4534999999996,
+		"y": 32
+	},
+	"Lemon": {
+		"x": 2770.4534999999996,
+		"y": 32
+	},
+	"Lemonada": {
+		"x": 2835.4222999999997,
+		"y": 32
+	},
+	"Libre Barcode 128": {
+		"x": 2936.0004,
+		"y": 32
+	},
+	"Libre Barcode 128 Text": {
+		"x": 3099.5944,
+		"y": 32
+	},
+	"Libre Barcode 39": {
+		"x": 3304.4224,
+		"y": 32
+	},
+	"Libre Barcode 39 Extended": {
+		"x": 3461.0634,
+		"y": 32
+	},
+	"Libre Barcode 39 Extended Text": {
+		"x": 3706.6104,
+		"y": 32
+	},
+	"Libre Barcode 39 Text": {
+		"x": 3993.3914,
+		"y": 32
+	},
+	"Libre Baskerville": {
+		"x": 4191.2664,
+		"y": 32
+	},
+	"Libre Franklin": {
+		"x": 4333.2974,
+		"y": 32
+	},
+	"Life Savers": {
+		"x": 4437.9384,
+		"y": 32
+	},
+	"Lilita One": {
+		"x": 4515.5322,
+		"y": 32
+	},
+	"Lily Script One": {
+		"x": 4584.485299999999,
+		"y": 32
+	},
+	"Limelight": {
+		"x": 4686.610299999999,
+		"y": 32
+	},
+	"Linden Hill": {
+		"x": 4772.9697,
+		"y": 32
+	},
+	"Lobster": {
+		"x": 4846.860299999999,
+		"y": 32
+	},
+	"Lobster Two": {
+		"x": 4893.172799999999,
+		"y": 32
+	},
+	"Londrina Outline": {
+		"x": 4967.2822,
+		"y": 32
+	},
+	"Londrina Shadow": {
+		"x": 5069.6884,
+		"y": 32
+	},
+	"Londrina Sketch": {
+		"x": 5177.9074,
+		"y": 32
+	},
+	"Londrina Solid": {
+		"x": 5280.0636,
+		"y": 32
+	},
+	"Lora": {
+		"x": 5369.3761,
+		"y": 32
+	},
+	"Love Ya Like A Sister": {
+		"x": 5407.0636,
+		"y": 32
+	},
+	"Loved by the King": {
+		"x": 5561.8296,
+		"y": 32
+	},
+	"Lovers Quarrel": {
+		"x": 5657.1734,
+		"y": 32
+	},
+	"Luckiest Guy": {
+		"x": 5717.4859,
+		"y": 32
+	},
+	"Lusitana": {
+		"x": 5819.813999999999,
+		"y": 32
+	},
+	"Lustria": {
+		"x": 5882.392099999999,
+		"y": 32
+	},
+	"Macondo": {
+		"x": 5938.110899999999,
+		"y": 32
+	},
+	"Macondo Swash Caps": {
+		"x": 6002.970299999999,
+		"y": 32
+	},
+	"Mada": {
+		"x": 6153.142299999999,
+		"y": 32
+	},
+	"Magra": {
+		"x": 6193.782899999998,
+		"y": 32
+	},
+	"Maiden Orange": {
+		"x": 6238.595399999998,
+		"y": 32
+	},
+	"Maitree": {
+		"x": 6321.626599999999,
+		"y": 32
+	},
+	"Mako": {
+		"x": 6384.157799999999,
+		"y": 32
+	},
+	"Mallanna": {
+		"x": 6427.282799999999,
+		"y": 32
+	},
+	"Mandali": {
+		"x": 6489.767199999999,
+		"y": 32
+	},
+	"Manuale": {
+		"x": 6550.8141,
+		"y": 32
+	},
+	"Marcellus": {
+		"x": 6615.642199999999,
+		"y": 32
+	},
+	"Marcellus SC": {
+		"x": 6689.704699999999,
+		"y": 32
+	},
+	"Marck Script": {
+		"x": 6792.923499999999,
+		"y": 32
+	},
+	"Margarine": {
+		"x": 6882.829699999999,
+		"y": 32
+	},
+	"Marko One": {
+		"x": 6960.595299999999,
+		"y": 32
+	},
+	"Marmelad": {
+		"x": 7060.032799999999,
+		"y": 32
+	},
+	"Martel": {
+		"x": 7136.907799999999,
+		"y": 32
+	},
+	"Martel Sans": {
+		"x": 7193.720299999999,
+		"y": 32
+	},
+	"Marvel": {
+		"x": 7287.126499999999,
+		"y": 32
+	},
+	"Mate": {
+		"x": 7328.2984,
+		"y": 32
+	},
+	"Mate SC": {
+		"x": 7367.2046,
+		"y": 32
+	},
+	"Maven Pro": {
+		"x": 7431.3608,
+		"y": 32
+	},
+	"McLaren": {
+		"x": 7511.845200000001,
+		"y": 32
+	},
+	"Meddon": {
+		"x": 7588.642100000001,
+		"y": 32
+	},
+	"MedievalSharp": {
+		"x": 7673.142100000001,
+		"y": 32
+	},
+	"Medula One": {
+		"x": 7785.017100000001,
+		"y": 32
+	},
+	"Meera Inimai": {
+		"x": 7835.235900000001,
+		"y": 32
+	},
+	"Megrim": {
+		"x": 7925.689,
+		"y": 32
+	},
+	"Meie Script": {
+		"x": 7981.8921,
+		"y": 32
+	},
+	"Merienda": {
+		"x": 8069.189,
+		"y": 32
+	},
+	"Merienda One": {
+		"x": 8147.9546,
+		"y": 32
+	},
+	"Merriweather": {
+		"x": 8264.3766,
+		"y": 32
+	},
+	"Merriweather Sans": {
+		"x": 8377.1106,
+		"y": 32
+	},
+	"Metal": {
+		"x": 8525.1106,
+		"y": 32
+	},
+	"Metal Mania": {
+		"x": 8566.4387,
+		"y": 32
+	},
+	"Metamorphous": {
+		"x": 8645.704300000001,
+		"y": 32
+	},
+	"Metrophobic": {
+		"x": 8784.251300000002,
+		"y": 32
+	},
+	"Michroma": {
+		"x": 8879.079400000002,
+		"y": 32
+	},
+	"Milonga": {
+		"x": 8988.688400000003,
+		"y": 32
+	},
+	"Miltonian": {
+		"x": 9052.969600000002,
+		"y": 32
+	},
+	"Miltonian Tattoo": {
+		"x": 9137.922700000003,
+		"y": 32
+	},
+	"Miniver": {
+		"x": 9278.625700000002,
+		"y": 32
+	},
+	"Miriam Libre": {
+		"x": 9336.063200000002,
+		"y": 32
+	},
+	"Mirza": {
+		"x": 9441.344200000003,
+		"y": 32
+	},
+	"Miss Fajardose": {
+		"x": 9479.734800000004,
+		"y": 32
+	},
+	"Mitr": {
+		"x": 9549.812900000004,
+		"y": 32
+	},
+	"Modak": {
+		"x": 9584.500400000004,
+		"y": 32
+	},
+	"Modern Antiqua": {
+		"x": 9635.687900000004,
+		"y": 32
+	},
+	"Mogra": {
+		"x": 9764.625900000005,
+		"y": 32
+	},
+	"Molengo": {
+		"x": 9816.532100000004,
+		"y": 32
+	},
+	"Molle": {
+		"x": 9878.594600000004,
+		"y": 32
+	},
+	"Monda": {
+		"x": 9920.813400000005,
+		"y": 32
+	},
+	"Monofett": {
+		"x": 9975.985300000004,
+		"y": 32
+	},
+	"Monoton": {
+		"x": 10053.985300000004,
+		"y": 32
+	},
+	"Monsieur La Doulaise": {
+		"x": 10147.329100000004,
+		"y": 32
+	},
+	"Montaga": {
+		"x": 10288.907100000004,
+		"y": 32
+	},
+	"Montez": {
+		"x": 10355.063300000003,
+		"y": 32
+	},
+	"Montserrat": {
+		"x": 10397.703900000004,
+		"y": 32
+	},
+	"Montserrat Alternates": {
+		"x": 10490.328900000004,
+		"y": 32
+	},
+	"Montserrat Subrayada": {
+		"x": 10676.969900000004,
+		"y": 32
+	},
+	"Moul": {
+		"x": 10906.375900000005,
+		"y": 32
+	},
+	"Moulpali": {
+		"x": 10945.047800000004,
+		"y": 32
+	},
+	"Mountains of Christmas": {
+		"x": 11007.719700000003,
+		"y": 32
+	},
+	"Mouse Memoirs": {
+		"x": 11152.188700000002,
+		"y": 32
+	},
+	"Mr Bedfort": {
+		"x": 11227.907500000003,
+		"y": 32
+	},
+	"Mr Dafoe": {
+		"x": 11309.220000000003,
+		"y": 32
+	},
+	"Mr De Haviland": {
+		"x": 11368.579400000002,
+		"y": 32
+	},
+	"Mrs Saint Delafield": {
+		"x": 11441.688800000002,
+		"y": 32
+	},
+	"Mrs Sheppards": {
+		"x": 11545.876800000002,
+		"y": 32
+	},
+	"Mukta": {
+		"x": 11637.033000000001,
+		"y": 32
+	},
+	"Mukta Mahee": {
+		"x": 11683.7674,
+		"y": 32
+	},
+	"Mukta Malar": {
+		"x": 11779.611200000001,
+		"y": 32
+	},
+	"Mukta Vaani": {
+		"x": 11869.080000000002,
+		"y": 32
+	},
+	"Muli": {
+		"x": 11956.033100000002,
+		"y": 32
+	},
+	"Mystery Quest": {
+		"x": 11990.470600000002,
+		"y": 32
+	},
+	"NTR": {
+		"x": 12090.017500000002,
+		"y": 32
+	},
+	"Neucha": {
+		"x": 12121.205000000002,
+		"y": 32
+	},
+	"Neuton": {
+		"x": 12167.705000000002,
+		"y": 32
+	},
+	"New Rocker": {
+		"x": 12216.892500000002,
+		"y": 32
+	},
+	"News Cycle": {
+		"x": 12304.048700000001,
+		"y": 32
+	},
+	"Niconne": {
+		"x": 12379.939300000002,
+		"y": 32
+	},
+	"Nixie One": {
+		"x": 12431.267400000002,
+		"y": 32
+	},
+	"Nobile": {
+		"x": 12511.783000000003,
+		"y": 32
+	},
+	"Nokora": {
+		"x": 12564.970500000003,
+		"y": 32
+	},
+	"Norican": {
+		"x": 12616.954900000002,
+		"y": 32
+	},
+	"Nosifer": {
+		"x": 12667.595500000003,
+		"y": 32
+	},
+	"Nothing You Could Do": {
+		"x": 12768.345500000003,
+		"y": 32
+	},
+	"Noticia Text": {
+		"x": 12932.064500000002,
+		"y": 32
+	},
+	"Noto Sans": {
+		"x": 13024.986400000002,
+		"y": 32
+	},
+	"Noto Serif": {
+		"x": 13105.752000000002,
+		"y": 32
+	},
+	"Nova Cut": {
+		"x": 13186.048900000002,
+		"y": 32
+	},
+	"Nova Flat": {
+		"x": 13256.673900000002,
+		"y": 32
+	},
+	"Nova Mono": {
+		"x": 13329.970800000001,
+		"y": 32
+	},
+	"Nova Oval": {
+		"x": 13414.8302,
+		"y": 32
+	},
+	"Nova Round": {
+		"x": 13495.299,
+		"y": 32
+	},
+	"Nova Script": {
+		"x": 13586.877100000002,
+		"y": 32
+	},
+	"Nova Slim": {
+		"x": 13678.345900000002,
+		"y": 32
+	},
+	"Nova Square": {
+		"x": 13757.549000000003,
+		"y": 32
+	},
+	"Numans": {
+		"x": 13854.330200000002,
+		"y": 32
+	},
+	"Nunito": {
+		"x": 13928.267700000002,
+		"y": 32
+	},
+	"Nunito Sans": {
+		"x": 13980.189600000002,
+		"y": 32
+	},
+	"Odor Mean Chey": {
+		"x": 14071.3615,
+		"y": 32
+	},
+	"Offside": {
+		"x": 14186.4555,
+		"y": 32
+	},
+	"Old Standard TT": {
+		"x": 14248.7993,
+		"y": 32
+	},
+	"Oldenburg": {
+		"x": 14371.721300000001,
+		"y": 32
+	},
+	"Oleo Script": {
+		"x": 14460.940100000002,
+		"y": 32
+	},
+	"Oleo Script Swash Caps": {
+		"x": 14531.799500000001,
+		"y": 32
+	},
+	"Open Sans": {
+		"x": 14681.299500000001,
+		"y": 32
+	},
+	"Open Sans Condensed": {
+		"x": 14765.6589,
+		"y": 32
+	},
+	"Oranienbaum": {
+		"x": 14913.6429,
+		"y": 32
+	},
+	"Orbitron": {
+		"x": 15003.3304,
+		"y": 32
+	},
+	"Oregano": {
+		"x": 15079.424200000001,
+		"y": 32
+	},
+	"Orienta": {
+		"x": 15129.939800000002,
+		"y": 32
+	},
+	"Original Surfer": {
+		"x": 15190.846000000001,
+		"y": 32
+	},
+	"Oswald": {
+		"x": 15305.69,
+		"y": 32
+	},
+	"Over the Rainbow": {
+		"x": 15351.268100000001,
+		"y": 32
+	},
+	"Overlock": {
+		"x": 15475.2841,
+		"y": 32
+	},
+	"Overlock SC": {
+		"x": 15536.862200000001,
+		"y": 32
+	},
+	"Overpass": {
+		"x": 15628.002800000002,
+		"y": 32
+	},
+	"Overpass Mono": {
+		"x": 15699.159000000001,
+		"y": 32
+	},
+	"Ovo": {
+		"x": 15831.300000000001,
+		"y": 32
+	},
+	"Oxygen": {
+		"x": 15864.065600000002,
+		"y": 32
+	},
+	"Oxygen Mono": {
+		"x": 15924.034400000002,
+		"y": 32
+	},
+	"PT Mono": {
+		"x": 16033.659400000002,
+		"y": 32
+	},
+	"PT Sans": {
+		"x": 16104.862500000003,
+		"y": 32
+	},
+	"PT Sans Caption": {
+		"x": 16162.628100000004,
+		"y": 32
+	},
+	"PT Sans Narrow": {
+		"x": 0,
+		"y": 48
+	},
+	"PT Serif": {
+		"x": 90.625,
+		"y": 48
+	},
+	"PT Serif Caption": {
+		"x": 151.0156,
+		"y": 48
+	},
+	"Pacifico": {
+		"x": 285.96860000000004,
+		"y": 48
+	},
+	"Padauk": {
+		"x": 342.10920000000004,
+		"y": 48
+	},
+	"Palanquin": {
+		"x": 393.28110000000004,
+		"y": 48
+	},
+	"Palanquin Dark": {
+		"x": 465.81230000000005,
+		"y": 48
+	},
+	"Pangolin": {
+		"x": 579.0623,
+		"y": 48
+	},
+	"Paprika": {
+		"x": 639.4685000000001,
+		"y": 48
+	},
+	"Parisienne": {
+		"x": 708.3123,
+		"y": 48
+	},
+	"Passero One": {
+		"x": 775.3748,
+		"y": 48
+	},
+	"Passion One": {
+		"x": 856.7967000000001,
+		"y": 48
+	},
+	"Pathway Gothic One": {
+		"x": 931.1717000000001,
+		"y": 48
+	},
+	"Patrick Hand": {
+		"x": 1032.4217,
+		"y": 48
+	},
+	"Patrick Hand SC": {
+		"x": 1109.4061000000002,
+		"y": 48
+	},
+	"Pattaya": {
+		"x": 1210.3123,
+		"y": 48
+	},
+	"Patua One": {
+		"x": 1265.0467,
+		"y": 48
+	},
+	"Pavanam": {
+		"x": 1341.6248,
+		"y": 48
+	},
+	"Paytone One": {
+		"x": 1404.7186000000002,
+		"y": 48
+	},
+	"Peddana": {
+		"x": 1513.1566000000003,
+		"y": 48
+	},
+	"Peralta": {
+		"x": 1556.0941000000003,
+		"y": 48
+	},
+	"Permanent Marker": {
+		"x": 1626.4691000000003,
+		"y": 48
+	},
+	"Petit Formal Script": {
+		"x": 1780.8911000000003,
+		"y": 48
+	},
+	"Petrona": {
+		"x": 1949.1721000000002,
+		"y": 48
+	},
+	"Philosopher": {
+		"x": 2006.1877000000002,
+		"y": 48
+	},
+	"Piedra": {
+		"x": 2090.7502000000004,
+		"y": 48
+	},
+	"Pinyon Script": {
+		"x": 2134.6564000000003,
+		"y": 48
+	},
+	"Pirata One": {
+		"x": 2220.0158,
+		"y": 48
+	},
+	"Plaster": {
+		"x": 2279.6564000000003,
+		"y": 48
+	},
+	"Play": {
+		"x": 2362.2189000000003,
+		"y": 48
+	},
+	"Playball": {
+		"x": 2395.2501,
+		"y": 48
+	},
+	"Playfair Display": {
+		"x": 2448.7345,
+		"y": 48
+	},
+	"Playfair Display SC": {
+		"x": 2564.6405,
+		"y": 48
+	},
+	"Podkova": {
+		"x": 2728.4065,
+		"y": 48
+	},
+	"Poiret One": {
+		"x": 2791.4221000000002,
+		"y": 48
+	},
+	"Poller One": {
+		"x": 2865.6565,
+		"y": 48
+	},
+	"Poly": {
+		"x": 2973.4375,
+		"y": 48
+	},
+	"Pompiere": {
+		"x": 3007.5625,
+		"y": 48
+	},
+	"Pontano Sans": {
+		"x": 3056.1563,
+		"y": 48
+	},
+	"Poppins": {
+		"x": 3153.2501,
+		"y": 48
+	},
+	"Port Lligat Sans": {
+		"x": 3220.6095,
+		"y": 48
+	},
+	"Port Lligat Slab": {
+		"x": 3323.8439,
+		"y": 48
+	},
+	"Pragati Narrow": {
+		"x": 3423.8750999999997,
+		"y": 48
+	},
+	"Prata": {
+		"x": 3508.2969999999996,
+		"y": 48
+	},
+	"Preahvihear": {
+		"x": 3554.0157999999997,
+		"y": 48
+	},
+	"Press Start 2P": {
+		"x": 3634.4219999999996,
+		"y": 48
+	},
+	"Pridi": {
+		"x": 3727.3281999999995,
+		"y": 48
+	},
+	"Princess Sofia": {
+		"x": 3765.6875999999993,
+		"y": 48
+	},
+	"Prociono": {
+		"x": 3851.1875999999993,
+		"y": 48
+	},
+	"Prompt": {
+		"x": 3917.1406999999995,
+		"y": 48
+	},
+	"Prosto One": {
+		"x": 3976.9844999999996,
+		"y": 48
+	},
+	"Proza Libre": {
+		"x": 4081.6254999999996,
+		"y": 48
+	},
+	"Puritan": {
+		"x": 4171.938,
+		"y": 48
+	},
+	"Purple Purse": {
+		"x": 4222.2818,
+		"y": 48
+	},
+	"Quando": {
+		"x": 4320.313,
+		"y": 48
+	},
+	"Quantico": {
+		"x": 4390.313,
+		"y": 48
+	},
+	"Quattrocento": {
+		"x": 4461.1411,
+		"y": 48
+	},
+	"Quattrocento Sans": {
+		"x": 4561.7817,
+		"y": 48
+	},
+	"Questrial": {
+		"x": 4694.3907,
+		"y": 48
+	},
+	"Quicksand": {
+		"x": 4762.8907,
+		"y": 48
+	},
+	"Quintessential": {
+		"x": 4844.6719,
+		"y": 48
+	},
+	"Qwigley": {
+		"x": 4939.0157,
+		"y": 48
+	},
+	"Racing Sans One": {
+		"x": 4976.8126,
+		"y": 48
+	},
+	"Radley": {
+		"x": 5102.015600000001,
+		"y": 48
+	},
+	"Rajdhani": {
+		"x": 5154.515600000001,
+		"y": 48
+	},
+	"Rakkas": {
+		"x": 5214.140600000001,
+		"y": 48
+	},
+	"Raleway": {
+		"x": 5265.4062,
+		"y": 48
+	},
+	"Raleway Dots": {
+		"x": 5331.9687,
+		"y": 48
+	},
+	"Ramabhadra": {
+		"x": 5434.6562,
+		"y": 48
+	},
+	"Ramaraja": {
+		"x": 5535.4687,
+		"y": 48
+	},
+	"Rambla": {
+		"x": 5597.6093,
+		"y": 48
+	},
+	"Rammetto One": {
+		"x": 5651.5624,
+		"y": 48
+	},
+	"Ranchers": {
+		"x": 5806.5464,
+		"y": 48
+	},
+	"Rancho": {
+		"x": 5869.2495,
+		"y": 48
+	},
+	"Ranga": {
+		"x": 5908.6714,
+		"y": 48
+	},
+	"Rasa": {
+		"x": 5942.0152,
+		"y": 48
+	},
+	"Rationale": {
+		"x": 5975.3277,
+		"y": 48
+	},
+	"Ravi Prakash": {
+		"x": 6033.6871,
+		"y": 48
+	},
+	"Redressed": {
+		"x": 6119.8902,
+		"y": 48
+	},
+	"Reem Kufi": {
+		"x": 6182.0464,
+		"y": 48
+	},
+	"Reenie Beanie": {
+		"x": 6254.0464,
+		"y": 48
+	},
+	"Revalia": {
+		"x": 6333.8433,
+		"y": 48
+	},
+	"Rhodium Libre": {
+		"x": 6412.765200000001,
+		"y": 48
+	},
+	"Ribeye": {
+		"x": 6536.0622,
+		"y": 48
+	},
+	"Ribeye Marrow": {
+		"x": 6595.8903,
+		"y": 48
+	},
+	"Righteous": {
+		"x": 6728.5623,
+		"y": 48
+	},
+	"Risque": {
+		"x": 6807.531099999999,
+		"y": 48
+	},
+	"Roboto": {
+		"x": 6857.421699999999,
+		"y": 48
+	},
+	"Roboto Condensed": {
+		"x": 6913.937299999999,
+		"y": 48
+	},
+	"Roboto Mono": {
+		"x": 7037.390299999999,
+		"y": 48
+	},
+	"Roboto Slab": {
+		"x": 7147.015299999999,
+		"y": 48
+	},
+	"Rochester": {
+		"x": 7240.577799999999,
+		"y": 48
+	},
+	"Rock Salt": {
+		"x": 7295.280899999999,
+		"y": 48
+	},
+	"Rokkitt": {
+		"x": 7395.515299999999,
+		"y": 48
+	},
+	"Romanesco": {
+		"x": 7446.890299999999,
+		"y": 48
+	},
+	"Ropa Sans": {
+		"x": 7494.140299999999,
+		"y": 48
+	},
+	"Rosario": {
+		"x": 7560.1714999999995,
+		"y": 48
+	},
+	"Rosarivo": {
+		"x": 7614.765299999999,
+		"y": 48
+	},
+	"Rouge Script": {
+		"x": 7683.718399999999,
+		"y": 48
+	},
+	"Rozha One": {
+		"x": 7751.515299999999,
+		"y": 48
+	},
+	"Rubik": {
+		"x": 7833.702799999999,
+		"y": 48
+	},
+	"Rubik Mono One": {
+		"x": 7879.327799999999,
+		"y": 48
+	},
+	"Ruda": {
+		"x": 8073.733799999999,
+		"y": 48
+	},
+	"Rufina": {
+		"x": 8115.889999999999,
+		"y": 48
+	},
+	"Ruge Boogie": {
+		"x": 8169.218099999999,
+		"y": 48
+	},
+	"Ruluko": {
+		"x": 8233.405599999998,
+		"y": 48
+	},
+	"Rum Raisin": {
+		"x": 8283.874399999999,
+		"y": 48
+	},
+	"Ruslan Display": {
+		"x": 8348.921299999998,
+		"y": 48
+	},
+	"Russo One": {
+		"x": 8494.218299999999,
+		"y": 48
+	},
+	"Ruthie": {
+		"x": 8584.780799999999,
+		"y": 48
+	},
+	"Rye": {
+		"x": 8625.7496,
+		"y": 48
+	},
+	"Sacramento": {
+		"x": 8660.8746,
+		"y": 48
+	},
+	"Sahitya": {
+		"x": 8728.655799999999,
+		"y": 48
+	},
+	"Sail": {
+		"x": 8780.952699999998,
+		"y": 48
+	},
+	"Saira": {
+		"x": 8812.390199999998,
+		"y": 48
+	},
+	"Saira Condensed": {
+		"x": 8854.483999999999,
+		"y": 48
+	},
+	"Saira Extra Condensed": {
+		"x": 8951.843399999998,
+		"y": 48
+	},
+	"Saira Semi Condensed": {
+		"x": 9061.827399999998,
+		"y": 48
+	},
+	"Salsa": {
+		"x": 9211.374399999999,
+		"y": 48
+	},
+	"Sanchez": {
+		"x": 9253.405599999998,
+		"y": 48
+	},
+	"Sancreek": {
+		"x": 9321.593099999998,
+		"y": 48
+	},
+	"Sansita": {
+		"x": 9393.608699999999,
+		"y": 48
+	},
+	"Sarala": {
+		"x": 9445.1868,
+		"y": 48
+	},
+	"Sarina": {
+		"x": 9493.0306,
+		"y": 48
+	},
+	"Sarpanch": {
+		"x": 9566.14,
+		"y": 48
+	},
+	"Satisfy": {
+		"x": 9646.1088,
+		"y": 48
+	},
+	"Scada": {
+		"x": 9691.2182,
+		"y": 48
+	},
+	"Scheherazade": {
+		"x": 9735.4682,
+		"y": 48
+	},
+	"Schoolbell": {
+		"x": 9805.9057,
+		"y": 48
+	},
+	"Scope One": {
+		"x": 9872.3432,
+		"y": 48
+	},
+	"Seaweed Script": {
+		"x": 9950.890099999999,
+		"y": 48
+	},
+	"Secular One": {
+		"x": 10040.2339,
+		"y": 48
+	},
+	"Sedgwick Ave": {
+		"x": 10134.7339,
+		"y": 48
+	},
+	"Sedgwick Ave Display": {
+		"x": 10226.312,
+		"y": 48
+	},
+	"Sevillana": {
+		"x": 10373.718,
+		"y": 48
+	},
+	"Seymour One": {
+		"x": 10436.296100000001,
+		"y": 48
+	},
+	"Shadows Into Light": {
+		"x": 10595.3741,
+		"y": 48
+	},
+	"Shadows Into Light Two": {
+		"x": 10708.2491,
+		"y": 48
+	},
+	"Shanti": {
+		"x": 10862.8901,
+		"y": 48
+	},
+	"Share": {
+		"x": 10911.6713,
+		"y": 48
+	},
+	"Share Tech": {
+		"x": 10951.0775,
+		"y": 48
+	},
+	"Share Tech Mono": {
+		"x": 11021.89,
+		"y": 48
+	},
+	"Shojumaru": {
+		"x": 11155.499,
+		"y": 48
+	},
+	"Short Stack": {
+		"x": 11276.358,
+		"y": 48
+	},
+	"Shrikhand": {
+		"x": 11386.686,
+		"y": 48
+	},
+	"Siemreap": {
+		"x": 11483.1391,
+		"y": 48
+	},
+	"Sigmar One": {
+		"x": 11547.561,
+		"y": 48
+	},
+	"Signika": {
+		"x": 11660.67,
+		"y": 48
+	},
+	"Signika Negative": {
+		"x": 11715.5762,
+		"y": 48
+	},
+	"Simonetta": {
+		"x": 11834.2172,
+		"y": 48
+	},
+	"Sintony": {
+		"x": 11904.5922,
+		"y": 48
+	},
+	"Sirin Stencil": {
+		"x": 11967.7328,
+		"y": 48
+	},
+	"Six Caps": {
+		"x": 12047.1547,
+		"y": 48
+	},
+	"Skranji": {
+		"x": 12077.014099999999,
+		"y": 48
+	},
+	"Slabo 13px": {
+		"x": 12127.2172,
+		"y": 48
+	},
+	"Slabo 27px": {
+		"x": 12205.264099999999,
+		"y": 48
+	},
+	"Slackey": {
+		"x": 12286.060999999998,
+		"y": 48
+	},
+	"Smokum": {
+		"x": 12367.217199999997,
+		"y": 48
+	},
+	"Smythe": {
+		"x": 12416.295299999998,
+		"y": 48
+	},
+	"Sniglet": {
+		"x": 12457.498399999999,
+		"y": 48
+	},
+	"Snippet": {
+		"x": 12510.764,
+		"y": 48
+	},
+	"Snowburst One": {
+		"x": 12568.3578,
+		"y": 48
+	},
+	"Sofadi One": {
+		"x": 12698.3578,
+		"y": 48
+	},
+	"Sofia": {
+		"x": 12787.9672,
+		"y": 48
+	},
+	"Sonsie One": {
+		"x": 12826.701599999999,
+		"y": 48
+	},
+	"Sorts Mill Goudy": {
+		"x": 12954.139599999999,
+		"y": 48
+	},
+	"Source Code Pro": {
+		"x": 13077.092599999998,
+		"y": 48
+	},
+	"Source Sans Pro": {
+		"x": 13225.092599999998,
+		"y": 48
+	},
+	"Source Serif Pro": {
+		"x": 13336.889599999999,
+		"y": 48
+	},
+	"Space Mono": {
+		"x": 13455.280599999998,
+		"y": 48
+	},
+	"Special Elite": {
+		"x": 13557.202499999998,
+		"y": 48
+	},
+	"Spectral": {
+		"x": 13673.358499999998,
+		"y": 48
+	},
+	"Spectral SC": {
+		"x": 13735.202299999999,
+		"y": 48
+	},
+	"Spicy Rice": {
+		"x": 13839.6863,
+		"y": 48
+	},
+	"Spinnaker": {
+		"x": 13912.358199999999,
+		"y": 48
+	},
+	"Spirax": {
+		"x": 13996.280099999998,
+		"y": 48
+	},
+	"Squada One": {
+		"x": 14043.326999999997,
+		"y": 48
+	},
+	"Sree Krushnadevaraya": {
+		"x": 14115.983199999997,
+		"y": 48
+	},
+	"Sriracha": {
+		"x": 14262.280199999997,
+		"y": 48
+	},
+	"Stalemate": {
+		"x": 14326.311399999997,
+		"y": 48
+	},
+	"Stalinist One": {
+		"x": 14365.811399999997,
+		"y": 48
+	},
+	"Stardos Stencil": {
+		"x": 14552.092399999998,
+		"y": 48
+	},
+	"Stint Ultra Condensed": {
+		"x": 14662.264399999998,
+		"y": 48
+	},
+	"Stint Ultra Expanded": {
+		"x": 14753.545599999998,
+		"y": 48
+	},
+	"Stoke": {
+		"x": 14958.779599999998,
+		"y": 48
+	},
+	"Strait": {
+		"x": 15012.826499999997,
+		"y": 48
+	},
+	"Sue Ellen Francisco": {
+		"x": 15052.795299999998,
+		"y": 48
+	},
+	"Suez One": {
+		"x": 15142.560899999999,
+		"y": 48
+	},
+	"Sumana": {
+		"x": 15216.295299999998,
+		"y": 48
+	},
+	"Sunshiney": {
+		"x": 15275.982799999998,
+		"y": 48
+	},
+	"Supermercado One": {
+		"x": 15336.967199999997,
+		"y": 48
+	},
+	"Sura": {
+		"x": 15466.201199999998,
+		"y": 48
+	},
+	"Suranna": {
+		"x": 15503.279299999998,
+		"y": 48
+	},
+	"Suravaram": {
+		"x": 15558.951199999998,
+		"y": 48
+	},
+	"Suwannaphum": {
+		"x": 15626.451199999998,
+		"y": 48
+	},
+	"Swanky and Moo Moo": {
+		"x": 15725.560599999997,
+		"y": 48
+	},
+	"Syncopate": {
+		"x": 15859.372599999997,
+		"y": 48
+	},
+	"Tangerine": {
+		"x": 15987.872599999997,
+		"y": 48
+	},
+	"Taprom": {
+		"x": 16030.591399999998,
+		"y": 48
+	},
+	"Tauri": {
+		"x": 16084.122599999997,
+		"y": 48
+	},
+	"Taviraj": {
+		"x": 16126.419499999996,
+		"y": 48
+	},
+	"Teko": {
+		"x": 16180.716399999996,
+		"y": 48
+	},
+	"Telex": {
+		"x": 16207.075799999995,
+		"y": 48
+	},
+	"Tenali Ramakrishna": {
+		"x": 16247.856999999995,
+		"y": 48
+	},
+	"Tenor Sans": {
+		"x": 0,
+		"y": 64
+	},
+	"Text Me One": {
+		"x": 87.6562,
+		"y": 64
+	},
+	"The Girl Next Door": {
+		"x": 179.3906,
+		"y": 64
+	},
+	"Tienne": {
+		"x": 321.0626,
+		"y": 64
+	},
+	"Tillana": {
+		"x": 380.8126,
+		"y": 64
+	},
+	"Timmana": {
+		"x": 428.92199999999997,
+		"y": 64
+	},
+	"Tinos": {
+		"x": 487.3282,
+		"y": 64
+	},
+	"Titan One": {
+		"x": 527.2188,
+		"y": 64
+	},
+	"Titillium Web": {
+		"x": 613.0469,
+		"y": 64
+	},
+	"Trade Winds": {
+		"x": 704.7344,
+		"y": 64
+	},
+	"Trirong": {
+		"x": 809.5154,
+		"y": 64
+	},
+	"Trocchi": {
+		"x": 869.5154,
+		"y": 64
+	},
+	"Trochut": {
+		"x": 934.6248,
+		"y": 64
+	},
+	"Trykker": {
+		"x": 983.0467000000001,
+		"y": 64
+	},
+	"Tulpen One": {
+		"x": 1047.0467,
+		"y": 64
+	},
+	"Ubuntu": {
+		"x": 1085.1717,
+		"y": 64
+	},
+	"Ubuntu Condensed": {
+		"x": 1143.5936000000002,
+		"y": 64
+	},
+	"Ubuntu Mono": {
+		"x": 1259.7346000000002,
+		"y": 64
+	},
+	"Ultra": {
+		"x": 1351.7346000000002,
+		"y": 64
+	},
+	"Uncial Antiqua": {
+		"x": 1407.0315000000003,
+		"y": 64
+	},
+	"Underdog": {
+		"x": 1545.8285000000003,
+		"y": 64
+	},
+	"Unica One": {
+		"x": 1619.6254000000004,
+		"y": 64
+	},
+	"UnifrakturCook": {
+		"x": 1688.7504000000004,
+		"y": 64
+	},
+	"UnifrakturMaguntia": {
+		"x": 1794.9534000000003,
+		"y": 64
+	},
+	"Unkempt": {
+		"x": 1929.1874000000003,
+		"y": 64
+	},
+	"Unlock": {
+		"x": 1993.8436000000002,
+		"y": 64
+	},
+	"Unna": {
+		"x": 2054.4686,
+		"y": 64
+	},
+	"VT323": {
+		"x": 2092.8905,
+		"y": 64
+	},
+	"Vampiro One": {
+		"x": 2128.8905,
+		"y": 64
+	},
+	"Varela": {
+		"x": 2237.1405,
+		"y": 64
+	},
+	"Varela Round": {
+		"x": 2289.5624,
+		"y": 64
+	},
+	"Vast Shadow": {
+		"x": 2395.5624,
+		"y": 64
+	},
+	"Vesper Libre": {
+		"x": 2545.1713999999997,
+		"y": 64
+	},
+	"Vibur": {
+		"x": 2634.4682999999995,
+		"y": 64
+	},
+	"Vidaloka": {
+		"x": 2673.4370999999996,
+		"y": 64
+	},
+	"Viga": {
+		"x": 2737.7808999999997,
+		"y": 64
+	},
+	"Voces": {
+		"x": 2772.9058999999997,
+		"y": 64
+	},
+	"Volkhov": {
+		"x": 2819.484,
+		"y": 64
+	},
+	"Vollkorn": {
+		"x": 2887.1558999999997,
+		"y": 64
+	},
+	"Vollkorn SC": {
+		"x": 2951.7808999999997,
+		"y": 64
+	},
+	"Voltaire": {
+		"x": 3061.0618999999997,
+		"y": 64
+	},
+	"Waiting for the Sunrise": {
+		"x": 3111.3743999999997,
+		"y": 64
+	},
+	"Wallpoet": {
+		"x": 3263.2333999999996,
+		"y": 64
+	},
+	"Walter Turncoat": {
+		"x": 3347.5458999999996,
+		"y": 64
+	},
+	"Warnes": {
+		"x": 3487.5298999999995,
+		"y": 64
+	},
+	"Wellfleet": {
+		"x": 3565.6548999999995,
+		"y": 64
+	},
+	"Wendy One": {
+		"x": 3641.6860999999994,
+		"y": 64
+	},
+	"Wire One": {
+		"x": 3734.3891999999996,
+		"y": 64
+	},
+	"Work Sans": {
+		"x": 3771.1548,
+		"y": 64
+	},
+	"Yanone Kaffeesatz": {
+		"x": 3858.2641999999996,
+		"y": 64
+	},
+	"Yantramanav": {
+		"x": 3951.3266999999996,
+		"y": 64
+	},
+	"Yatra One": {
+		"x": 4041.3423,
+		"y": 64
+	},
+	"Yellowtail": {
+		"x": 4124.1079,
+		"y": 64
+	},
+	"Yeseva One": {
+		"x": 4184.1235,
+		"y": 64
+	},
+	"Yesteryear": {
+		"x": 4278.2954,
+		"y": 64
+	},
+	"Yrsa": {
+		"x": 4338.9673,
+		"y": 64
+	},
+	"Zeyada": {
+		"x": 4370.373500000001,
+		"y": 64
+	},
+	"Zilla Slab": {
+		"x": 4415.498500000001,
+		"y": 64
+	},
+	"Zilla Slab Highlight": {
+		"x": 4482.1391,
+		"y": 64
+	}
+}
