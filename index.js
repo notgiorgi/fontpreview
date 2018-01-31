@@ -884,10 +884,9 @@ const loadFonts = families =>
     })
   })
 
-const UNIT_H = 16
 const FONT_SIZE = 16
-const TEXT_PADDING_X = 4
-const TEXT_PADDING_Y = (UNIT_H - FONT_SIZE) / 2
+const TEXT_PADDING_X = FONT_SIZE / 2
+const TEXT_PADDING_Y = FONT_SIZE / 2
 const CANVAS_MAX_W = 32767
 const PIXEL_RATIO = getPixelRatio()
 
@@ -922,13 +921,15 @@ function run () {
 
     if (measured + width + TEXT_PADDING_X >= (CANVAS_MAX_W / PIXEL_RATIO)) {
       width = 0
-      height += UNIT_H
+      height += FONT_SIZE + TEXT_PADDING_Y
     }
 
     widthCache[f] = {
       x: width,
-      y: height
+      y: height,
+      x_end: measured
     }
+
     console.group(f)
     console.log(widthCache[f])
     console.groupEnd(f)
@@ -936,7 +937,12 @@ function run () {
     width += measured + TEXT_PADDING_X
     done()
   }, () => {
-    const canvas = createCanvas(CANVAS_MAX_W / PIXEL_RATIO, UNIT_H + height + TEXT_PADDING_Y, PIXEL_RATIO)
+    const canvas = createCanvas(
+      CANVAS_MAX_W / PIXEL_RATIO,
+      FONT_SIZE + height + TEXT_PADDING_Y,
+      PIXEL_RATIO
+    )
+
     $(canvas).hide()
     const ctx = canvas.getContext('2d')
     $(document.body).append(canvas)

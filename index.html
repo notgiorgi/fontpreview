@@ -25,9 +25,9 @@
 
     .preview {
       width: 76px;
-      height: 16px;
+      height: 20px;
 
-      border:1px solid red;
+      border:1px solid #eee;
       margin-bottom: 1em;
 
       background-image: url(./font_sheet.png);
@@ -48,44 +48,9 @@
   <p>Please wait for the images</p>
   <span id="measurer"></span>
   <div id="images"></div>
-
-  <!--  -->
   <div id="previews"></div>
-  <!--  -->
-  <!-- <script src="./index.js"></script> -->
-  <!-- <script type="text/javascript">
-    $.getJSON('./font_sheet.json')
-      .done(config => {
-        config.FONTS.slice(100, 300).forEach(f => {
-          render(createPreview(config, f))
-        })
-      })
 
-    function createPreview(config, fontName) {
-      return $('<div/>')
-        .addClass('preview')
-        .css({
-          'background-size': config.CANVAS_MAX_W / config.PIXEL_RATIO,
-          'background-position': `-${fontX(config, fontName)}px -${fontY(config, fontName)}px`
-        })
-    }
-
-
-    function render($node) {
-      $('#previews').append($node)
-    }
-
-    function font(config, name) {
-      return config[name]
-    }
-
-    function fontX(config, name) {
-      return font(config, name).x
-    }
-
-    function fontY(config, name) {
-      return font(config, name).y
-    }
-  </script> -->
+  <script src="./index.js"></script>
+  <!-- <script type="text/javascript" src="./preview.js"></script> -->
 </body>
 </html>
