@@ -11,7 +11,7 @@ function createPreview (config, fontName) {
     .css({
       'background-size': config.CANVAS_MAX_W / config.PIXEL_RATIO,
       'background-position': `-${fontX(config, fontName) - 4}px -${fontY(config, fontName)}px`,
-      'width': `${config[fontName].x_end + 8}px`
+      'width': `${config[fontName].w + 8}px`
     })
 }
 
