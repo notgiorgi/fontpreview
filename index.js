@@ -3,7 +3,8 @@
 const FONT_SIZE = 16
 const TEXT_PADDING_X = FONT_SIZE / 2
 const TEXT_PADDING_Y = FONT_SIZE / 2
-const CANVAS_MAX_W = 32767
+const CANVAS_MAX_W = 29400
+
 const PIXEL_RATIO = utils.getPixelRatio()
 
 $(document).ready(function () {
@@ -53,7 +54,6 @@ function run () {
       utils.forEach(fontFamilies, (f, i, done) => {
         const { x, y } = widthCache[f]
 
-        // drawLine(x, y, ctx)
         simulateFont(ctx, f, FONT_SIZE, x, y)
 
         done()
@@ -83,6 +83,6 @@ function drawLine (x, y, ctx) {
   ctx.beginPath()
   ctx.strokeStyle = 'red'
   ctx.moveTo(x, y + FONT_SIZE)
-  ctx.lineTo(100, 100)
+  ctx.lineTo(x, y - 16)
   ctx.stroke()
 }
