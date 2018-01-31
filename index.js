@@ -53,7 +53,7 @@ function run () {
       utils.forEach(fontFamilies, (f, i, done) => {
         const { x, y } = widthCache[f]
 
-        drawLine(x, y, ctx)
+        // drawLine(x, y, ctx)
         simulateFont(ctx, f, FONT_SIZE, x, y)
 
         done()
