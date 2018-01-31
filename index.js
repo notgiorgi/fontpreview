@@ -14,7 +14,6 @@ function run () {
   let width = 0
   let height = 0
   let widthCache = {
-    FONTS: fontFamilies,
     PIXEL_RATIO,
     CANVAS_MAX_W
   }
@@ -54,12 +53,13 @@ function run () {
       utils.forEach(fontFamilies, (f, i, done) => {
         const { x, y } = widthCache[f]
 
+        drawLine(x, y, ctx)
         simulateFont(ctx, f, FONT_SIZE, x, y)
 
         done()
       })
         .then(() => {
-          console.log(JSON.stringify(widthCache))
+          console.log(JSON.stringify(widthCache, null, 2))
           publish(capture(canvas))
         })
     })
@@ -77,4 +77,12 @@ function capture (canvas) {
 
 function publish (src) {
   $('#images').append($('<img>').attr('src', src))
+}
+
+function drawLine (x, y, ctx) {
+  ctx.beginPath()
+  ctx.strokeStyle = 'red'
+  ctx.moveTo(x, y + FONT_SIZE)
+  ctx.lineTo(100, 100)
+  ctx.stroke()
 }

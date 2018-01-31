@@ -1,6 +1,6 @@
 $.getJSON('./font_sheet.json')
   .done(config => {
-    config.FONTS.reverse().forEach(f => {
+    window.fontFamilies.reverse().forEach(f => {
       render(createPreview(config, f))
     })
   })
